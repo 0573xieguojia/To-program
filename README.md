@@ -1,4 +1,4 @@
-to program
+To program
 ==========
 
 佳佳分享的作业
@@ -6,7 +6,8 @@ to program
 + 1.这是一个自由的国度
 + 2.创作者正在学习当中
 +
-+ 代码（for example）
++ 示例代码
++（for example）
 *   public class qiuhe{
 * 	  public static void main(String[] args){
 *		  int i=1;
