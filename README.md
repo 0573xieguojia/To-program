@@ -7,7 +7,7 @@ To program
 + 2.创作者正在学习当中
 +
 + 示例代码
-+（for example）
+*（for example）
 *   public class qiuhe{
 * 	  public static void main(String[] args){
 *		  int i=1;
