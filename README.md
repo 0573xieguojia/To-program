@@ -5,7 +5,6 @@ Johnson分享的作业
 + 1.这是一个自由的国度
 + 2.创作者正在学习当中
 + 示例代码
-*（for example）
 
 *   public class qiuhe{
 * 	  public static void main(String[] args){
