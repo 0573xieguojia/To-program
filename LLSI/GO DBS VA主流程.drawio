@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T10:35:26.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="qRFs3hnSvP2f9pxf_g18" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T10:57:21.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="FgxksfyXKPBMkPT0N2nT" version="21.3.2" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1627" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="637" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -453,18 +453,18 @@
             <mxPoint x="1400" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i6KkL1Z0L1pgr_k6maQS-18" value="审核" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=orthogonalEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="1">
+        <mxCell id="i6KkL1Z0L1pgr_k6maQS-18" value="调用付款" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=orthogonalEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0012" width="80" relative="1" as="geometry">
-            <mxPoint x="1475.5" y="970.22" as="sourcePoint" />
-            <mxPoint x="1635.0000000000005" y="969.9977777777779" as="targetPoint" />
+            <mxPoint x="1635" y="1078.22" as="sourcePoint" />
+            <mxPoint x="1794.5000000000005" y="1077.9977777777779" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="i6KkL1Z0L1pgr_k6maQS-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1475" y="960" width="10" height="40" as="geometry" />
+          <mxGeometry x="1795" y="1040" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="i6KkL1Z0L1pgr_k6maQS-21" value="全部命中&lt;br&gt;收款STP" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1683.3399999999997" y="1000" width="66.66" height="40" as="geometry" />
+        <mxCell id="i6KkL1Z0L1pgr_k6maQS-21" value="全部命中&lt;br&gt;付款STP" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1719.9999999999998" y="990" width="66.66" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i6KkL1Z0L1pgr_k6maQS-23" value="判定" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=orthogonalEdgeStyle;elbow=vertical;rounded=0;entryX=0.501;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i6KkL1Z0L1pgr_k6maQS-15" target="i6KkL1Z0L1pgr_k6maQS-21">
           <mxGeometry x="0.0012" width="80" relative="1" as="geometry">
@@ -472,7 +472,35 @@
             <mxPoint x="1645.0000000000005" y="979.9977777777779" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="1717" y="980" />
+              <mxPoint x="1753" y="980" />
+              <mxPoint x="1753" y="992" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i6KkL1Z0L1pgr_k6maQS-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1635" y="1040" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i6KkL1Z0L1pgr_k6maQS-25" value="Y&lt;br&gt;无需人工审核" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=orthogonalEdgeStyle;elbow=vertical;rounded=0;exitX=0.494;exitY=0.989;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="i6KkL1Z0L1pgr_k6maQS-21" target="XJ6F1k_8K6ic9RC7Fvcj-114">
+          <mxGeometry x="0.0242" width="80" relative="1" as="geometry">
+            <mxPoint x="1655" y="990" as="sourcePoint" />
+            <mxPoint x="1727" y="1012" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1753" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i6KkL1Z0L1pgr_k6maQS-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1475" y="1040" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i6KkL1Z0L1pgr_k6maQS-27" value="N&lt;br&gt;需人工审核" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=orthogonalEdgeStyle;elbow=vertical;rounded=0;exitX=0.003;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="i6KkL1Z0L1pgr_k6maQS-21" target="i6KkL1Z0L1pgr_k6maQS-26">
+          <mxGeometry x="0.0241" width="80" relative="1" as="geometry">
+            <mxPoint x="1763" y="1040" as="sourcePoint" />
+            <mxPoint x="1650" y="1060" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1540" y="1010" />
+              <mxPoint x="1540" y="1060" />
             </Array>
           </mxGeometry>
         </mxCell>
