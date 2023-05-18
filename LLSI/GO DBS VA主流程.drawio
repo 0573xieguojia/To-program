@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T03:36:53.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="aOAs1xeRQOHhoSppiigZ" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T05:31:40.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="mSNKOj3MtUNr-Hl1RSY_" version="21.3.2" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1039" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1443" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XJ6F1k_8K6ic9RC7Fvcj-152" value="收款流程" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;rounded=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="300" width="560" height="320" as="geometry" />
+          <mxGeometry x="1280" y="300" width="560" height="380" as="geometry" />
         </mxCell>
         <mxCell id="iCU8PE95by6Qg0S7l5G6-96" value="826300" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="80" width="100" height="1181.1" as="geometry" />
@@ -260,6 +260,18 @@
         </mxCell>
         <mxCell id="XJ6F1k_8K6ic9RC7Fvcj-155" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="XJ6F1k_8K6ic9RC7Fvcj-114" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="i6KkL1Z0L1pgr_k6maQS-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="XJ6F1k_8K6ic9RC7Fvcj-114">
+          <mxGeometry x="45" y="560" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i6KkL1Z0L1pgr_k6maQS-5" value="1级钱包，VA记账&lt;br&gt;2级钱包，VA记账" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="i6KkL1Z0L1pgr_k6maQS-4" parent="XJ6F1k_8K6ic9RC7Fvcj-114">
+          <mxGeometry x="0.0118" relative="1" as="geometry">
+            <mxPoint x="50" y="540" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="570" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XJ6F1k_8K6ic9RC7Fvcj-119" value="826300" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1910" y="80" width="100" height="1181.1" as="geometry" />
