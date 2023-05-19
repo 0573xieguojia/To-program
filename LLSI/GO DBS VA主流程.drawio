@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T03:50:41.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="9qjfDoXSELh_seH9LtGI" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T07:01:28.532Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-q4-gCUX1ltjosSuX-x7" version="21.3.2" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1434" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -318,16 +318,17 @@
         <mxCell id="WY4BYLjC5cGbK42QLBJb-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="XJ6F1k_8K6ic9RC7Fvcj-121">
           <mxGeometry x="-435" y="1480" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WY4BYLjC5cGbK42QLBJb-25" value="付款状态显示" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="XJ6F1k_8K6ic9RC7Fvcj-121">
+        <mxCell id="WY4BYLjC5cGbK42QLBJb-25" value="收款状态显示" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="XJ6F1k_8K6ic9RC7Fvcj-121">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-116" y="1520" as="sourcePoint" />
             <mxPoint x="-265" y="1519.906976744186" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WY4BYLjC5cGbK42QLBJb-26" value="付款状态显示" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="XJ6F1k_8K6ic9RC7Fvcj-121">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="WY4BYLjC5cGbK42QLBJb-26" value="收款状态显示" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="XJ6F1k_8K6ic9RC7Fvcj-121">
+          <mxGeometry x="0.0004" relative="1" as="geometry">
             <mxPoint x="-276" y="1519.52" as="sourcePoint" />
             <mxPoint x="-425" y="1519.426976744186" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XJ6F1k_8K6ic9RC7Fvcj-124" value="芷悦/健宇" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=20;rounded=1;" parent="1" vertex="1">
