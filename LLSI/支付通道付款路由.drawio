@@ -1,0 +1,54 @@
+<mxfile host="app.diagrams.net" modified="2023-05-29T11:54:33.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="1n7hC326Wc0ZabpCnltl" version="21.3.5" type="github">
+  <diagram name="第 1 页" id="-ALs4O2s3Otpp36kydkP">
+    <mxGraphModel dx="1452" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5vpyDN43tX-CinXj2xsW-7" value="渠道外账号" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;align=right;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5vpyDN43tX-CinXj2xsW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="5vpyDN43tX-CinXj2xsW-11" target="5vpyDN43tX-CinXj2xsW-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="200" />
+              <mxPoint x="290" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5vpyDN43tX-CinXj2xsW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="5vpyDN43tX-CinXj2xsW-11" target="5vpyDN43tX-CinXj2xsW-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="168" y="70" />
+              <mxPoint x="625" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5vpyDN43tX-CinXj2xsW-11" value="通道内(内部账号)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="157.5" width="115" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="5vpyDN43tX-CinXj2xsW-13" value="渠道外账号" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;align=right;" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5vpyDN43tX-CinXj2xsW-14" value="通道内(内部账号)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="500" y="237.5" width="115" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="5vpyDN43tX-CinXj2xsW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="5vpyDN43tX-CinXj2xsW-7" target="5vpyDN43tX-CinXj2xsW-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="180" />
+              <mxPoint x="558" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5vpyDN43tX-CinXj2xsW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.855;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="5vpyDN43tX-CinXj2xsW-7" target="5vpyDN43tX-CinXj2xsW-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="235" y="110" />
+              <mxPoint x="598" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
