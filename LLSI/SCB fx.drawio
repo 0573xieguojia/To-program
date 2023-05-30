@@ -1,9 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T06:19:19.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.5" etag="nZ2InFBrRBDucJYpCFO0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T07:04:45.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="MoyKhmQC1hLFcakbmKN7" version="21.3.5" type="github">
   <diagram name="第 1 页" id="T3U8ABsXLm7v_3UPz6AF">
-    <mxGraphModel>
+    <mxGraphModel dx="1168" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0ae08IHwfbM9A49X0Js1-1" value="锁价的时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-2" value="by client level" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-3" value="use case" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-4" value="up to one minute" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-5" value="查询fx 的假期表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ae08IHwfbM9A49X0Js1-6" target="0ae08IHwfbM9A49X0Js1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-6" value="get - quote" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ae08IHwfbM9A49X0Js1-7" target="0ae08IHwfbM9A49X0Js1-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-7" value="所有的货币对" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ae08IHwfbM9A49X0Js1-10" target="0ae08IHwfbM9A49X0Js1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-10" value="get - single - quote" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-11" value="单一货币对" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ae08IHwfbM9A49X0Js1-13" target="0ae08IHwfbM9A49X0Js1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-13" value="拿价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-14" value="两个不同的锁价时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-16" value="获取的次数是否有限制；可以另外与kevin 讨论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-20" value="rateType:" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-21" value="validFrom" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-22" value="validTill" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-23" value="上面的status 是pass" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-24" value="clientRateType不用指定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-25" value="下面的status，error" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-29" value="get transactions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-30" value="1 min 之后查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-31" value="response" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-32" value="5min" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-33" value="4点之后，还会发生交易吗？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-34" value="cut off time&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-35" value="G7 的cut off time" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ae08IHwfbM9A49X0Js1-36" value="G7 再加HKD, CNY" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
