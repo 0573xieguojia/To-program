@@ -1,33 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T06:06:17.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="TLUxdukCb8fDvX9p7fwI" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T10:05:59.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="rIjutbwOCe86y74i9u9U" version="21.3.7" type="github">
   <diagram name="第 1 页" id="-ALs4O2s3Otpp36kydkP">
-    <mxGraphModel dx="1001" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1762" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pLcGzp6a1exoXwU1wgx8-9" value="渠道内账号" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="r61IET7OUS5yOShcaQP2-39" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r61IET7OUS5yOShcaQP2-38" target="r61IET7OUS5yOShcaQP2-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-38" value="收款方" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1040" width="640" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="pLcGzp6a1exoXwU1wgx8-9" value="渠道内账号" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="418" y="400" width="382" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pLcGzp6a1exoXwU1wgx8-5" value="渠道外账号" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="pLcGzp6a1exoXwU1wgx8-5" value="渠道外账号" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="418" y="160" width="382" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="pLcGzp6a1exoXwU1wgx8-2" value="其他银行账号" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;align=right;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="pLcGzp6a1exoXwU1wgx8-2" value="其他银行账号" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;align=right;horizontal=1;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="170" width="380" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="pLcGzp6a1exoXwU1wgx8-1" value="DBS" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;align=center;horizontal=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="pLcGzp6a1exoXwU1wgx8-1" value="DBS" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;align=center;horizontal=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="34" y="260" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="5vpyDN43tX-CinXj2xsW-13" value="SCB 账号（联易融合作通道）" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;align=left;" parent="1" vertex="1">
+        <mxCell id="5vpyDN43tX-CinXj2xsW-13" value="SCB 账号（联易融合作通道）" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;align=left;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="190" width="186" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5vpyDN43tX-CinXj2xsW-14" value="同个通道(内部账号)" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="5vpyDN43tX-CinXj2xsW-14" value="同个通道(内部账号)" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="434" y="420" width="115" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="pLcGzp6a1exoXwU1wgx8-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeWidth=1;" edge="1" parent="1" source="pLcGzp6a1exoXwU1wgx8-1" target="5vpyDN43tX-CinXj2xsW-14">
+        <mxCell id="pLcGzp6a1exoXwU1wgx8-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeWidth=1;" parent="1" source="pLcGzp6a1exoXwU1wgx8-1" target="5vpyDN43tX-CinXj2xsW-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="314" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pLcGzp6a1exoXwU1wgx8-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;" edge="1" parent="1" source="pLcGzp6a1exoXwU1wgx8-1" target="pLcGzp6a1exoXwU1wgx8-2">
+        <mxCell id="pLcGzp6a1exoXwU1wgx8-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;" parent="1" source="pLcGzp6a1exoXwU1wgx8-1" target="pLcGzp6a1exoXwU1wgx8-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="244" y="330" as="sourcePoint" />
             <mxPoint x="444" y="423" as="targetPoint" />
@@ -38,7 +44,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pLcGzp6a1exoXwU1wgx8-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.029;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;" edge="1" parent="1" source="pLcGzp6a1exoXwU1wgx8-1" target="5vpyDN43tX-CinXj2xsW-13">
+        <mxCell id="pLcGzp6a1exoXwU1wgx8-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.029;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;" parent="1" source="pLcGzp6a1exoXwU1wgx8-1" target="5vpyDN43tX-CinXj2xsW-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="144" y="270" as="sourcePoint" />
             <mxPoint x="624" y="190" as="targetPoint" />
@@ -49,10 +55,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pLcGzp6a1exoXwU1wgx8-8" value="SCB 账号（非联易融通道）" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;align=left;" vertex="1" parent="1">
+        <mxCell id="pLcGzp6a1exoXwU1wgx8-8" value="SCB 账号（非联易融通道）" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;align=left;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="280" width="186" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pLcGzp6a1exoXwU1wgx8-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;" edge="1" parent="1" source="pLcGzp6a1exoXwU1wgx8-1" target="pLcGzp6a1exoXwU1wgx8-8">
+        <mxCell id="pLcGzp6a1exoXwU1wgx8-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;" parent="1" source="pLcGzp6a1exoXwU1wgx8-1" target="pLcGzp6a1exoXwU1wgx8-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="144" y="270" as="sourcePoint" />
             <mxPoint x="485" y="230" as="targetPoint" />
@@ -63,30 +69,30 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pLcGzp6a1exoXwU1wgx8-32" value="渠道内账号" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="pLcGzp6a1exoXwU1wgx8-32" value="渠道内账号" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="418" y="800" width="382" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pLcGzp6a1exoXwU1wgx8-33" value="渠道外账号" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="pLcGzp6a1exoXwU1wgx8-33" value="渠道外账号" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="418" y="560" width="382" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="pLcGzp6a1exoXwU1wgx8-34" value="其他银行账号" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;align=right;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="pLcGzp6a1exoXwU1wgx8-34" value="其他银行账号" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;align=right;horizontal=1;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="570" width="380" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="pLcGzp6a1exoXwU1wgx8-35" value="SCB" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;align=center;horizontal=1;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="pLcGzp6a1exoXwU1wgx8-35" value="SCB" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;align=center;horizontal=1;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="34" y="660" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pLcGzp6a1exoXwU1wgx8-36" value="DBS 账号（联易融合作通道）" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;align=left;" vertex="1" parent="1">
+        <mxCell id="pLcGzp6a1exoXwU1wgx8-36" value="DBS 账号（联易融合作通道）" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;align=left;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="590" width="186" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pLcGzp6a1exoXwU1wgx8-37" value="同个通道(内部账号)" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="pLcGzp6a1exoXwU1wgx8-37" value="同个通道(内部账号)" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="434" y="820" width="115" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="pLcGzp6a1exoXwU1wgx8-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeWidth=1;" edge="1" parent="1" source="pLcGzp6a1exoXwU1wgx8-35" target="pLcGzp6a1exoXwU1wgx8-37">
+        <mxCell id="pLcGzp6a1exoXwU1wgx8-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeWidth=1;" parent="1" source="pLcGzp6a1exoXwU1wgx8-35" target="pLcGzp6a1exoXwU1wgx8-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="314" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pLcGzp6a1exoXwU1wgx8-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;" edge="1" parent="1" source="pLcGzp6a1exoXwU1wgx8-35" target="pLcGzp6a1exoXwU1wgx8-34">
+        <mxCell id="pLcGzp6a1exoXwU1wgx8-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;" parent="1" source="pLcGzp6a1exoXwU1wgx8-35" target="pLcGzp6a1exoXwU1wgx8-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="244" y="730" as="sourcePoint" />
             <mxPoint x="444" y="823" as="targetPoint" />
@@ -97,7 +103,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pLcGzp6a1exoXwU1wgx8-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.029;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;" edge="1" parent="1" source="pLcGzp6a1exoXwU1wgx8-35" target="pLcGzp6a1exoXwU1wgx8-36">
+        <mxCell id="pLcGzp6a1exoXwU1wgx8-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.029;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;" parent="1" source="pLcGzp6a1exoXwU1wgx8-35" target="pLcGzp6a1exoXwU1wgx8-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="144" y="670" as="sourcePoint" />
             <mxPoint x="624" y="590" as="targetPoint" />
@@ -108,10 +114,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pLcGzp6a1exoXwU1wgx8-41" value="DBS&amp;nbsp;账号（非联易融通道）" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;align=left;" vertex="1" parent="1">
+        <mxCell id="pLcGzp6a1exoXwU1wgx8-41" value="DBS&amp;nbsp;账号（非联易融通道）" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;align=left;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="680" width="186" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pLcGzp6a1exoXwU1wgx8-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;" edge="1" parent="1" source="pLcGzp6a1exoXwU1wgx8-35" target="pLcGzp6a1exoXwU1wgx8-41">
+        <mxCell id="pLcGzp6a1exoXwU1wgx8-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;" parent="1" source="pLcGzp6a1exoXwU1wgx8-35" target="pLcGzp6a1exoXwU1wgx8-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="144" y="670" as="sourcePoint" />
             <mxPoint x="485" y="630" as="targetPoint" />
@@ -119,6 +125,96 @@
               <mxPoint x="134" y="630" />
               <mxPoint x="350" y="630" />
               <mxPoint x="350" y="692" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-1" value="收款方" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1080" width="360" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-2" value="DBS VA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-3" value="SCB VA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1169" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-4" value="DBS其他行账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-5" value="SCB其他行账号&lt;div style=&quot;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;span style=&quot;font-family: LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;span style=&quot;font-family: LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;span style=&quot;font-family: LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-6" value="其他银行账号&lt;br&gt;(非DBS 非SCB)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1169" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-7" value="企业拥有的2级账号 虚拟账号" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1000" width="382" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-8" value="只开通DBS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="81" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-9" value="只开通SCB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="211" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-10" value="DBS SCB 都开通" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-13" value="付款币种" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="81" y="1240" width="382" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-14" value="DBS特有5个币种" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="91" y="1325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-37" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r61IET7OUS5yOShcaQP2-19" target="r61IET7OUS5yOShcaQP2-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="1355" />
+              <mxPoint x="435" y="1315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-19" value="DBS&amp;amp;SCB交集币种" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-20" value="付款方式" style="text;html=1;strokeColor=#36393d;fillColor=#ffff88;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1080" width="240" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-21" value="联易融内部转" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1125" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-26" value="银行行内" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="1125" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-27" value="FPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1175" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-28" value="RTGS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="1175" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-29" value="TT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1225" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-40" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r61IET7OUS5yOShcaQP2-30" target="r61IET7OUS5yOShcaQP2-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-30" value="配置" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeWidth=1;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1200" width="240" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-31" value="FPS（DBS/SCB）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1295" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-32" value="RTGS&lt;br&gt;（DBS/SCB）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1295" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-33" value="TT&lt;br&gt;（DBS/SCB）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1345" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-35" value="无法决定付款渠道" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1275" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r61IET7OUS5yOShcaQP2-36" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r61IET7OUS5yOShcaQP2-10" target="r61IET7OUS5yOShcaQP2-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="401" y="1315" />
             </Array>
           </mxGeometry>
         </mxCell>
