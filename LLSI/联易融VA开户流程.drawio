@@ -1,58 +1,325 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T06:00:32.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="X6XJHfzgYZ0gfRRfTKXT" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T09:20:28.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Xu2hY8mXpHGl6RZXyP1h" version="21.3.7" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1259" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1685" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="100" height="300" as="geometry" />
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-14" value="客户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" diagramCategory="uml" diagramName="Lifeline" vertex="1" parent="1">
+          <mxGeometry x="30" y="400" width="100" height="1000" as="geometry" />
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-1">
-          <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="Activation" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-14">
+          <mxGeometry x="45" y="170" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-3" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="aM9ryv3xv72pqoxQDRHE-1" target="aM9ryv3xv72pqoxQDRHE-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-15" y="70" as="sourcePoint" />
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="Activation" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-14">
+          <mxGeometry x="45" y="593" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="Activation" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-14">
+          <mxGeometry x="45" y="713" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-18" value="客户端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" diagramCategory="uml" diagramName="Lifeline" vertex="1" parent="1">
+          <mxGeometry x="190" y="400" width="100" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="Activation" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-18">
+          <mxGeometry x="45" y="50" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="Activation" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-18">
+          <mxGeometry x="45" y="97" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="Activation" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-18">
+          <mxGeometry x="45" y="140" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#97D077;" diagramCategory="uml" diagramName="Activation" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-18">
+          <mxGeometry x="45" y="593" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-23" value="运营" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" diagramCategory="uml" diagramName="Lifeline" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="100" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="Activation" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-23">
+          <mxGeometry x="45" y="563" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-25" value="内管端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" diagramCategory="uml" diagramName="Lifeline" vertex="1" parent="1">
+          <mxGeometry x="510" y="400" width="100" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-26" value="审核" style="rhombus;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Diamond" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-25">
+          <mxGeometry x="30" y="267" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-27" value="7 生成账户开户管理" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" diagramCategory="uml" diagramName="Relation1" edge="1" parent="HWaxISpHymcSIVK9i5Ai-25" source="HWaxISpHymcSIVK9i5Ai-26" target="HWaxISpHymcSIVK9i5Ai-25">
+          <mxGeometry x="-0.0527" relative="1" as="geometry">
+            <mxPoint x="210.00000000000023" y="380.0099999999999" as="sourcePoint" />
+            <mxPoint x="70" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="292" />
+              <mxPoint x="160" y="480" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-1">
-          <mxGeometry x="50" y="120" width="10" height="80" as="geometry" />
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-28" value="6" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" connectable="0" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-27">
+          <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="220" y="40" width="100" height="300" as="geometry" />
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="Activation" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-25">
+          <mxGeometry x="45" y="563" width="10" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-5">
-          <mxGeometry x="45" y="80" width="10" height="170" as="geometry" />
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#97D077;" diagramCategory="uml" diagramName="Activation" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-25">
+          <mxGeometry x="-275" y="713" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-7" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-2" target="aM9ryv3xv72pqoxQDRHE-6">
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="Activation" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-25">
+          <mxGeometry x="-115" y="683" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="Activation" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-25">
+          <mxGeometry x="45" y="683" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-33" value="更新账户状态，&lt;br /&gt;渠道账户状态" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="HWaxISpHymcSIVK9i5Ai-25" source="HWaxISpHymcSIVK9i5Ai-45">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="195" y="130" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="180" y="120" />
+              <mxPoint x="168" y="698" />
+            </Array>
+            <mxPoint x="167.5" y="698" as="sourcePoint" />
+            <mxPoint x="49.5" y="698" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-34" value="更新状态" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HWaxISpHymcSIVK9i5Ai-25" source="HWaxISpHymcSIVK9i5Ai-32" target="HWaxISpHymcSIVK9i5Ai-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-35" value="更新状态" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HWaxISpHymcSIVK9i5Ai-25" source="HWaxISpHymcSIVK9i5Ai-32" target="HWaxISpHymcSIVK9i5Ai-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="703" />
+              <mxPoint y="733" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-8" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-2">
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="Activation" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-25">
+          <mxGeometry x="45" y="390" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-37" value="拒绝，工作流处理结束" style="edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=open;endSize=8;entryX=0.934;entryY=0.52;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="HWaxISpHymcSIVK9i5Ai-25" source="HWaxISpHymcSIVK9i5Ai-26" target="HWaxISpHymcSIVK9i5Ai-36">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="195" y="205" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="280" />
+              <mxPoint x="73" y="411" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-9" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="175" y="160" as="sourcePoint" />
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="Activation" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-25">
+          <mxGeometry x="45" y="460" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-39" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="Activation" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-25">
+          <mxGeometry x="45" y="630" width="10" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-40" value="联易融服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" diagramCategory="uml" diagramName="Lifeline" vertex="1" parent="1">
+          <mxGeometry x="670" y="400" width="100" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-41" value="有没有未处理的开户申请" style="rhombus;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Diamond" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-40">
+          <mxGeometry x="7.5" y="82" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="Activation" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-40">
+          <mxGeometry x="45" y="50" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-43" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="Activation" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-40">
+          <mxGeometry x="45" y="270" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-44" value="是否有接收成功" style="rhombus;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Diamond" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-40">
+          <mxGeometry x="7.5" y="553" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-45" value="是否有拒绝" style="rhombus;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Diamond" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-40">
+          <mxGeometry x="7.5" y="663" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-46" value="&lt;span style&gt;联易融服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="670" y="1160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-47" value="内管端" style="rounded=1;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="510" y="1160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-48" value="运营" style="rounded=1;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="350" y="1160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-49" value="客户端" style="rounded=1;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="190" y="1160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-50" value="客户" style="rounded=1;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="30" y="1160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-51" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" diagramCategory="uml" diagramName="Relation1" edge="1" parent="1" target="HWaxISpHymcSIVK9i5Ai-41">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="250" y="507" as="sourcePoint" />
+            <mxPoint x="716.9999999999998" y="515" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="160" />
+              <mxPoint x="380" y="508" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-10" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-4" target="aM9ryv3xv72pqoxQDRHE-6">
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-52" value="1" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" connectable="0" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-51">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-53" value="没有，允许新增" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" diagramCategory="uml" diagramName="Return" edge="1" parent="1" source="HWaxISpHymcSIVK9i5Ai-41">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="175" y="235" as="targetPoint" />
+            <mxPoint x="719.4999999999998" y="557" as="sourcePoint" />
+            <mxPoint x="250" y="547" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="230" />
+              <mxPoint x="790" y="507" />
+              <mxPoint x="790" y="547" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-54" value="发起工作流" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpStyle=arc;" diagramCategory="uml" diagramName="Return" edge="1" parent="1" source="HWaxISpHymcSIVK9i5Ai-40" target="HWaxISpHymcSIVK9i5Ai-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="719.4999999999998" y="627.0298507462686" as="sourcePoint" />
+            <mxPoint x="560" y="637" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="582" y="640" />
+              <mxPoint x="582" y="657" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-55" value="新增账户" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;" diagramCategory="uml" diagramName="Relation1" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="85" y="577" as="sourcePoint" />
+            <mxPoint x="235" y="577" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-56" value="2" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" connectable="0" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-55">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-57" value="发起" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;" diagramCategory="uml" diagramName="Relation1" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="240" y="607" as="sourcePoint" />
+            <mxPoint x="719.5" y="607.0298507462687" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="607" />
+              <mxPoint x="580" y="607" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-58" value="3" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" connectable="0" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-57">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-59" value="提供接口，允许点击新增账户" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" diagramCategory="uml" diagramName="Return" edge="1" parent="1" source="HWaxISpHymcSIVK9i5Ai-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560.0700000000002" y="460" as="sourcePoint" />
+            <mxPoint x="239.9289743589743" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-60" value="操作" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" diagramCategory="uml" diagramName="Relation1" edge="1" parent="1" source="HWaxISpHymcSIVK9i5Ai-23" target="HWaxISpHymcSIVK9i5Ai-26">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="250" y="617" as="sourcePoint" />
+            <mxPoint x="729.4999999999998" y="617.0298507462687" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="495" y="660" />
+              <mxPoint x="495" y="692" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-61" value="4" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" connectable="0" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-60">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-62" value="SCB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" diagramCategory="uml" diagramName="Lifeline" vertex="1" parent="1">
+          <mxGeometry x="870" y="400" width="100" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-63" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="Activation" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-62">
+          <mxGeometry x="45" y="613" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-64" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="Activation" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-62">
+          <mxGeometry x="45" y="576" width="10" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-65" value="SCB" style="rounded=1;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="870" y="1160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-66" value="调用支付渠道" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;exitX=0.88;exitY=0.828;exitDx=0;exitDy=0;exitPerimeter=0;" diagramCategory="uml" diagramName="Relation1" edge="1" parent="1" source="HWaxISpHymcSIVK9i5Ai-43" target="HWaxISpHymcSIVK9i5Ai-62">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="730" y="692" as="sourcePoint" />
+            <mxPoint x="920" y="692" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="703" />
+              <mxPoint x="820" y="703" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-67" value="6" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" connectable="0" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-66">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-68" value="通过" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" diagramCategory="uml" diagramName="Relation1" edge="1" parent="1" source="HWaxISpHymcSIVK9i5Ai-26" target="HWaxISpHymcSIVK9i5Ai-40">
+          <mxGeometry x="-0.4709" y="22" relative="1" as="geometry">
+            <mxPoint x="575.5" y="760" as="sourcePoint" />
+            <mxPoint x="660" y="692" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="692" />
+              <mxPoint x="670" y="692" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-69" value="5" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" connectable="0" vertex="1" parent="HWaxISpHymcSIVK9i5Ai-68">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-70" value="log  返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" diagramCategory="uml" diagramName="Return" edge="1" parent="1" target="HWaxISpHymcSIVK9i5Ai-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="917" y="923" as="sourcePoint" />
+            <mxPoint x="800" y="943" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="923" />
+              <mxPoint x="880" y="940" />
+              <mxPoint x="762" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-71" value="listing 返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" diagramCategory="uml" diagramName="Return" edge="1" parent="1" target="HWaxISpHymcSIVK9i5Ai-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="919.5" y="1053" as="sourcePoint" />
+            <mxPoint x="719.5" y="1053" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="1053" />
+              <mxPoint x="880" y="1088" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-72" value="&lt;font color=&quot;#ff0000&quot;&gt;成功&lt;/font&gt;&lt;br /&gt;更新账户状态，&lt;br /&gt;渠道账户状态" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HWaxISpHymcSIVK9i5Ai-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="978" />
+              <mxPoint x="590" y="978" />
+            </Array>
+            <mxPoint x="559.217948717949" y="978.0256410256409" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-73" value="更新状态" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HWaxISpHymcSIVK9i5Ai-29" target="HWaxISpHymcSIVK9i5Ai-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-74" value="更新状态" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HWaxISpHymcSIVK9i5Ai-29" target="HWaxISpHymcSIVK9i5Ai-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="983" />
+              <mxPoint x="510" y="1013" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-75" value="&lt;font color=&quot;#ff0000&quot;&gt;否&lt;/font&gt;&lt;br /&gt;Upload失败，&lt;br /&gt;开户状态=处理中" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HWaxISpHymcSIVK9i5Ai-44" target="HWaxISpHymcSIVK9i5Ai-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="678" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-76" value="查看状态(处理中)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HWaxISpHymcSIVK9i5Ai-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="239.49999999999977" y="1013.0256410256411" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="1013" />
+              <mxPoint x="200" y="1013" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-77" value="查看状态（开户成功）" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HWaxISpHymcSIVK9i5Ai-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="239.49999999999977" y="1133.0256410256409" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="1133" />
+              <mxPoint x="200" y="1133" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWaxISpHymcSIVK9i5Ai-78" value="&lt;font color=&quot;#ff0000&quot;&gt;成功&lt;/font&gt;&lt;br /&gt;SCB 会继续发送&lt;br /&gt;第二个文件" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HWaxISpHymcSIVK9i5Ai-44" target="HWaxISpHymcSIVK9i5Ai-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="1023" />
             </Array>
           </mxGeometry>
         </mxCell>
