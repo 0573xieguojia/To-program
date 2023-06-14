@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T03:34:56.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="A52MhfcBqd-afBrEH5bk" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T03:50:09.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QHevRMc_77WoABygt_oX" version="21.3.8" type="github">
   <diagram name="第 1 页" id="gMs7uxnUfSTZgnsEwux5">
-    <mxGraphModel dx="930" dy="1644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="444" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lcl_3cPdZzyg85KBw2Hc-1" value="企业" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="30" y="40" width="100" height="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="lcl_3cPdZzyg85KBw2Hc-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="lcl_3cPdZzyg85KBw2Hc-1">
+          <mxGeometry x="45" y="80" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lcl_3cPdZzyg85KBw2Hc-2" value="联易融客户端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="190" y="40" width="100" height="1500" as="geometry" />
@@ -18,6 +21,72 @@
         </mxCell>
         <mxCell id="lcl_3cPdZzyg85KBw2Hc-5" value="银联" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="670" y="40" width="100" height="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="lcl_3cPdZzyg85KBw2Hc-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="lcl_3cPdZzyg85KBw2Hc-5">
+          <mxGeometry x="45" y="160" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lcl_3cPdZzyg85KBw2Hc-7" value="开通结汇提现" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry y="100" width="820" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lcl_3cPdZzyg85KBw2Hc-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="235" y="120" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lcl_3cPdZzyg85KBw2Hc-13" value="申请开通" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1" target="lcl_3cPdZzyg85KBw2Hc-8">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="85" y="130" as="sourcePoint" />
+            <mxPoint x="220" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85" y="131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lcl_3cPdZzyg85KBw2Hc-14" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="lcl_3cPdZzyg85KBw2Hc-13">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcl_3cPdZzyg85KBw2Hc-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="395" y="120" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lcl_3cPdZzyg85KBw2Hc-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="555" y="120" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lcl_3cPdZzyg85KBw2Hc-21" value="提交信息" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="245" y="139.66" as="sourcePoint" />
+            <mxPoint x="395" y="139.66" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="139.66" />
+              <mxPoint x="280" y="139.66" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lcl_3cPdZzyg85KBw2Hc-22" value="2" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="lcl_3cPdZzyg85KBw2Hc-21">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcl_3cPdZzyg85KBw2Hc-23" value="服务中心审核&lt;br&gt;结汇提现" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="lcl_3cPdZzyg85KBw2Hc-16" target="lcl_3cPdZzyg85KBw2Hc-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="150" as="sourcePoint" />
+            <mxPoint x="410" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lcl_3cPdZzyg85KBw2Hc-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="395" y="200" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lcl_3cPdZzyg85KBw2Hc-26" value="调用银联接口" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1" source="lcl_3cPdZzyg85KBw2Hc-24" target="lcl_3cPdZzyg85KBw2Hc-25">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="410" y="210" as="sourcePoint" />
+            <mxPoint x="711.5" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="210" />
+              <mxPoint x="640" y="210" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lcl_3cPdZzyg85KBw2Hc-27" value="3" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="lcl_3cPdZzyg85KBw2Hc-26">
+          <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
