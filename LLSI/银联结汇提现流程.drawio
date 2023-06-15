@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T08:11:11.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="F1XSAlW_LUy4lM7LCAS1" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T08:48:50.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="iyPp1jx-Bdw52FQHyt0C" version="21.3.8" type="github">
   <diagram name="第 1 页" id="gMs7uxnUfSTZgnsEwux5">
     <mxGraphModel dx="1456" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -395,7 +395,7 @@
           <mxGeometry y="1320" width="760" height="200" as="geometry" />
         </mxCell>
         <mxCell id="lcl_3cPdZzyg85KBw2Hc-100" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="396" y="1360" width="10" height="40" as="geometry" />
+          <mxGeometry x="395" y="1360" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lcl_3cPdZzyg85KBw2Hc-101" value="汇总对公提现数据" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1" target="lcl_3cPdZzyg85KBw2Hc-100">
           <mxGeometry relative="1" as="geometry">
@@ -419,6 +419,31 @@
         </mxCell>
         <mxCell id="lcl_3cPdZzyg85KBw2Hc-106" value="银联" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="670" y="1650" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lcl_3cPdZzyg85KBw2Hc-107" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1400" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lcl_3cPdZzyg85KBw2Hc-109" value="线下转款" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="395" y="1510" as="sourcePoint" />
+            <mxPoint x="705" y="1511" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="395" y="1511" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lcl_3cPdZzyg85KBw2Hc-110" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="lcl_3cPdZzyg85KBw2Hc-109">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcl_3cPdZzyg85KBw2Hc-111" value="菜单：对公提现待转&lt;br&gt;款记录(人工发起转款)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="555" y="1400" as="sourcePoint" />
+            <mxPoint x="405" y="1400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="1400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
