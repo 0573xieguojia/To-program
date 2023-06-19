@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T10:26:34.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Rf8xcaz6_C0C9PULZqLK" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T10:28:05.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="x5kEVKJsRVtn1IdQonf_" version="21.5.0" type="github">
   <diagram name="第 1 页" id="Y29vQs1fbBjCuAOMUxID">
     <mxGraphModel dx="1466" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,19 +63,19 @@
           <mxGeometry y="90" width="960" height="727" as="geometry" />
         </mxCell>
         <mxCell id="CyjdcLk994ZgfRY2nxm0-15" value="企业" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="30" y="437" width="100" height="40" as="geometry" />
+          <mxGeometry x="30" y="830" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CyjdcLk994ZgfRY2nxm0-16" value="联易融客户端" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="190" y="437" width="100" height="40" as="geometry" />
+          <mxGeometry x="190" y="830" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CyjdcLk994ZgfRY2nxm0-17" value="联易融服务端" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="350" y="437" width="100" height="40" as="geometry" />
+        <mxCell id="CyjdcLk994ZgfRY2nxm0-17" value="联易融内管端" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="830" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CyjdcLk994ZgfRY2nxm0-18" value="芷悦/健宇" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="510" y="437" width="100" height="40" as="geometry" />
+        <mxCell id="CyjdcLk994ZgfRY2nxm0-18" value="服务" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="510" y="830" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CyjdcLk994ZgfRY2nxm0-19" value="银联" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="670" y="437" width="100" height="40" as="geometry" />
+        <mxCell id="CyjdcLk994ZgfRY2nxm0-19" value="健宇/芷悦" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="670" y="830" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CyjdcLk994ZgfRY2nxm0-21" value="DBS(其他支付)付款" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1" target="CyjdcLk994ZgfRY2nxm0-25">
           <mxGeometry x="-1" relative="1" as="geometry">
@@ -223,6 +223,9 @@
         </mxCell>
         <mxCell id="CyjdcLk994ZgfRY2nxm0-46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="395" y="320" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CyjdcLk994ZgfRY2nxm0-47" value="银联" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="827" y="830" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
