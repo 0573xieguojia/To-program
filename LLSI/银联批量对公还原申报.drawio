@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T09:13:25.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="aipsqhV7l8I5hnmHnZFM" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T09:13:41.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LOm9A8vU2hgrT22FQn38" version="21.5.0" type="github">
   <diagram name="第 1 页" id="Y29vQs1fbBjCuAOMUxID">
     <mxGraphModel dx="1434" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -229,6 +229,24 @@
         </mxCell>
         <mxCell id="CyjdcLk994ZgfRY2nxm0-47" value="银联" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="827" y="830" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KcthqPrNZC4BYqEQ8prU-1" value="企业" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="31.5" y="1640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KcthqPrNZC4BYqEQ8prU-2" value="联易融客户端" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="191.5" y="1640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KcthqPrNZC4BYqEQ8prU-3" value="联易融内管端" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="351.5" y="1640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KcthqPrNZC4BYqEQ8prU-4" value="服务" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="511.5" y="1640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KcthqPrNZC4BYqEQ8prU-5" value="健宇/芷悦" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="671.5" y="1640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KcthqPrNZC4BYqEQ8prU-6" value="银联" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="828.5" y="1640" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
