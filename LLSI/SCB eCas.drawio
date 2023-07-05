@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T02:18:14.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Aaukk_z0xkWLZISpuOg3" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-05T02:28:35.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6Bi2ysa7MVvqZhx1suRt" version="21.5.2" type="github">
   <diagram name="第 1 页" id="_3mwSGDof0DfkYGqECy5">
-    <mxGraphModel dx="989" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="478" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -351,6 +351,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="VGkYvNJ9s34nYrzg0NMf-62" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="VGkYvNJ9s34nYrzg0NMf-49">
+          <mxGeometry x="45.5" y="240" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VGkYvNJ9s34nYrzg0NMf-66" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="VGkYvNJ9s34nYrzg0NMf-49">
+          <mxGeometry x="45.5" y="320" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VGkYvNJ9s34nYrzg0NMf-67" value="确认各个文件夹存在" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="VGkYvNJ9s34nYrzg0NMf-66" parent="VGkYvNJ9s34nYrzg0NMf-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50.5" y="300" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80.5" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VGkYvNJ9s34nYrzg0NMf-53" value="渣打银行" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1389.5" y="40" width="101" height="500" as="geometry" />
         </mxCell>
@@ -360,10 +374,29 @@
         <mxCell id="VGkYvNJ9s34nYrzg0NMf-61" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="VGkYvNJ9s34nYrzg0NMf-53">
           <mxGeometry x="45.5" y="240" width="10" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="VGkYvNJ9s34nYrzg0NMf-70" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="VGkYvNJ9s34nYrzg0NMf-53">
+          <mxGeometry x="-114" y="400" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VGkYvNJ9s34nYrzg0NMf-71" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="VGkYvNJ9s34nYrzg0NMf-53">
+          <mxGeometry x="46" y="400" width="10" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="VGkYvNJ9s34nYrzg0NMf-57" value="提供安装包" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1434.5" y="170" as="sourcePoint" />
             <mxPoint x="1285.2222222222224" y="169.88888888888886" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGkYvNJ9s34nYrzg0NMf-63" value="提供各个功能对应&lt;br&gt;的文件存放路径" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1434.64" y="289.77" as="sourcePoint" />
+            <mxPoint x="1285.3622222222225" y="289.65888888888884" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGkYvNJ9s34nYrzg0NMf-73" value="测试环境提供个功能&lt;br&gt;类型对应文件" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0004" relative="1" as="geometry">
+            <mxPoint x="1434.64" y="450.11" as="sourcePoint" />
+            <mxPoint x="1285.3622222222225" y="449.9988888888888" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
