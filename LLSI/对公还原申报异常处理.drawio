@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T07:38:54.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Kzz7WP43-BB29jArI4Xe" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-07T10:22:43.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CsMdfRfu1JJTJl1RM3kp" version="21.5.2" type="github">
   <diagram name="第 1 页" id="cecb9tNHnT4WKb9MnGJK">
-    <mxGraphModel dx="1001" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1210" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -605,6 +605,48 @@
             <mxPoint x="1370" y="1790" as="targetPoint" />
             <mxPoint x="1400" y="1790" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uzARrTuZSLdGQsg_Jb-Q-172" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="40" width="720" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="uzARrTuZSLdGQsg_Jb-Q-173" value="转款记录" style="swimlane;startSize=20;html=1;" vertex="1" parent="uzARrTuZSLdGQsg_Jb-Q-172">
+          <mxGeometry y="20" width="240" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="uzARrTuZSLdGQsg_Jb-Q-174" value="转款1 对私 CNY 1000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uzARrTuZSLdGQsg_Jb-Q-173">
+          <mxGeometry x="39" y="180" width="161" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uzARrTuZSLdGQsg_Jb-Q-175" value="转款2 对私 CNY 1400" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uzARrTuZSLdGQsg_Jb-Q-173">
+          <mxGeometry x="39" y="260" width="161" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uzARrTuZSLdGQsg_Jb-Q-176" value="转款3 对公 CNY 1600" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uzARrTuZSLdGQsg_Jb-Q-173">
+          <mxGeometry x="39" y="340" width="161" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uzARrTuZSLdGQsg_Jb-Q-177" value="转款4 对公 CNY 1800" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uzARrTuZSLdGQsg_Jb-Q-173">
+          <mxGeometry x="39" y="420" width="161" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uzARrTuZSLdGQsg_Jb-Q-178" value="转款0 对私 CNY 1000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uzARrTuZSLdGQsg_Jb-Q-173">
+          <mxGeometry x="39" y="100" width="161" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uzARrTuZSLdGQsg_Jb-Q-179" value="对公提现待转款记录" style="swimlane;startSize=20;html=1;" vertex="1" parent="uzARrTuZSLdGQsg_Jb-Q-172">
+          <mxGeometry x="240" y="20" width="240" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="uzARrTuZSLdGQsg_Jb-Q-180" value="收款失败" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="uzARrTuZSLdGQsg_Jb-Q-179">
+          <mxGeometry x="39.5" y="100" width="161" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uzARrTuZSLdGQsg_Jb-Q-181" value="收款成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uzARrTuZSLdGQsg_Jb-Q-179">
+          <mxGeometry x="39.5" y="180" width="161" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uzARrTuZSLdGQsg_Jb-Q-182" value="收款成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uzARrTuZSLdGQsg_Jb-Q-179">
+          <mxGeometry x="39.5" y="260" width="161" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uzARrTuZSLdGQsg_Jb-Q-183" value="收款成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uzARrTuZSLdGQsg_Jb-Q-179">
+          <mxGeometry x="39.5" y="340" width="161" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uzARrTuZSLdGQsg_Jb-Q-184" value="收款成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uzARrTuZSLdGQsg_Jb-Q-179">
+          <mxGeometry x="39.5" y="420" width="161" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uzARrTuZSLdGQsg_Jb-Q-198" value="&lt;div style=&quot;box-sizing: inherit; -webkit-tap-highlight-color: transparent; display: flex; -webkit-box-align: center; align-items: center; font-size: 14px; color: rgb(51, 51, 51); height: 43px; font-family: 微软雅黑, FZLTHJW; font-weight: 400; text-align: start;&quot; class=&quot;lls-title-left&quot; data-v-18724e44=&quot;&quot;&gt;&lt;div style=&quot;box-sizing: inherit; -webkit-tap-highlight-color: transparent;&quot; data-v-18724e44=&quot;&quot;&gt;对公提现已转款记录&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: inherit; -webkit-tap-highlight-color: transparent; display: flex; font-family: 微软雅黑, FZLTHJW; font-size: 14px; font-weight: 400; text-align: start;&quot; class=&quot;lls-title-right&quot; data-v-18724e44=&quot;&quot;&gt;&lt;/div&gt;" style="swimlane;startSize=20;html=1;" vertex="1" parent="uzARrTuZSLdGQsg_Jb-Q-172">
+          <mxGeometry x="480" y="20" width="240" height="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
