@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T08:24:00.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="K286UGWZsIK8dOKT1bJn" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T08:29:36.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="853hPg9hgxLKGLWAQQol" version="21.6.1" type="github">
   <diagram name="第 1 页" id="-03Gn73uHck9jwQGTfGm">
-    <mxGraphModel dx="574" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,10 @@
         <mxCell id="CoPd3ULI95kJ3X9n0NOn-34" value="判断默认出钱账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CoPd3ULI95kJ3X9n0NOn-4">
           <mxGeometry x="40" y="490.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CoPd3ULI95kJ3X9n0NOn-36" value="判断是否集资" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CoPd3ULI95kJ3X9n0NOn-4">
+        <mxCell id="CoPd3ULI95kJ3X9n0NOn-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CoPd3ULI95kJ3X9n0NOn-4" source="CoPd3ULI95kJ3X9n0NOn-36" target="CoPd3ULI95kJ3X9n0NOn-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CoPd3ULI95kJ3X9n0NOn-36" value="判断对内/外付款" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CoPd3ULI95kJ3X9n0NOn-4">
           <mxGeometry x="40" y="540.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CoPd3ULI95kJ3X9n0NOn-38" value="判断是否集资" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CoPd3ULI95kJ3X9n0NOn-4">
