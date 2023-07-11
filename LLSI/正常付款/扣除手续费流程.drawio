@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T08:44:42.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="xG1XQ56pZtiL6RPI0uaL" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T08:47:29.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="oa95Y7x7wQSBzx99GUoS" version="21.6.1" type="github">
   <diagram name="第 1 页" id="-03Gn73uHck9jwQGTfGm">
     <mxGraphModel dx="683" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -137,16 +137,13 @@
           <mxGeometry x="880" y="390" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CoPd3ULI95kJ3X9n0NOn-52" value="未调用DBS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="890" y="330" width="60" height="30" as="geometry" />
+          <mxGeometry x="880" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CoPd3ULI95kJ3X9n0NOn-53" value="调用DBS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="330" width="60" height="30" as="geometry" />
+          <mxGeometry x="1040" y="350" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CoPd3ULI95kJ3X9n0NOn-54" value="等待DBS反馈" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="330" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CoPd3ULI95kJ3X9n0NOn-58" value="DBS 接口返回time out，归为04" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="380" width="130" height="30" as="geometry" />
+        <mxCell id="CoPd3ULI95kJ3X9n0NOn-54" value="1、等待DBS反馈&lt;br&gt;2、DBS 接口返回time out，归为04" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="350" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
