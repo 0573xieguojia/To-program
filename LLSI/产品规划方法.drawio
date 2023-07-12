@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T05:58:57.232Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3BPQK_aqMsj895_zsCPH" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T06:02:26.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TzHmoENu48_h87kcAN0X" version="21.6.1" type="github">
   <diagram name="第 1 页" id="xHlVvCODJjh1_ycXmK6b">
     <mxGraphModel dx="989" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,16 +17,16 @@
           <mxGeometry x="640" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-v63V6HLcKUYAtbRwrVV-9" value="有5家，销售规模50亿以上，购买了SaaS产品&lt;br&gt;80%用户使用核心功能" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="250" height="50" as="geometry" />
+          <mxGeometry x="240" y="320" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-v63V6HLcKUYAtbRwrVV-10" value="目的：需要达成什么目的，知名工作的方向，定性指标&lt;br&gt;目标：怎样判断目的是否达成，量化指标&lt;br&gt;策略：怎么达成目标，关键的方案和措施&lt;br&gt;测量：如何量化、监测策略的达成进展" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-v63V6HLcKUYAtbRwrVV-12" value="新研发的SaaS产品，证明满足客户需求，客户愿意付费" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="280" width="200" height="50" as="geometry" />
+          <mxGeometry x="40" y="280" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-v63V6HLcKUYAtbRwrVV-13" value="1、找到突破点&lt;br&gt;&lt;br&gt;比如花100W，收获1000W&lt;br&gt;怎么能花120W，收获2000W&lt;br&gt;&lt;br&gt;2、&lt;br&gt;机会分析 Analyze&lt;br&gt;愿景及规划 Introduction&lt;br&gt;年度目的 Objective&lt;br&gt;年度目标 Goal&lt;br&gt;年度策略 Strategy&lt;br&gt;进度计划 Plan&lt;br&gt;资源需求 Resource&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="400" width="250" height="180" as="geometry" />
+        <mxCell id="-v63V6HLcKUYAtbRwrVV-13" value="1、找到突破点&lt;br&gt;&lt;br&gt;比如花100W，收获1000W&lt;br&gt;怎么能花120W，收获2000W&lt;br&gt;&lt;br&gt;2、&lt;br&gt;机会分析 Analyze&lt;br&gt;愿景及规划 Introduction （可以跳过，独立产品线可以稍微提一下）&lt;br&gt;年度目的 Objective&lt;br&gt;年度目标 Goal&lt;br&gt;年度策略 Strategy&lt;br&gt;进度计划 Plan&lt;br&gt;资源需求 Resource" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="200" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
