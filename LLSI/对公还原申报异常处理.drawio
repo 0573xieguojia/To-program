@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T09:03:09.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Vim8xWHx2l0yjgZ1RD9W" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T09:24:19.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Oys7J2sUGL5jE04MdSvD" version="21.6.1" type="github">
   <diagram name="第 1 页" id="cecb9tNHnT4WKb9MnGJK">
-    <mxGraphModel dx="989" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -886,13 +886,13 @@
         <mxCell id="bd396XMRPbHdnp-o-zop-67" value="消耗 1400" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1601" y="1750" width="159.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bd396XMRPbHdnp-o-zop-68" value="消耗 &lt;font color=&quot;#ff0000&quot;&gt;1600&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bd396XMRPbHdnp-o-zop-68" value="消耗 &lt;font&gt;1600&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="1601" y="1770" width="159.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bd396XMRPbHdnp-o-zop-72" value="消耗 &lt;font color=&quot;#ff0000&quot;&gt;1600&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bd396XMRPbHdnp-o-zop-72" value="消耗 &lt;font&gt;1600&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="1601" y="1790" width="159.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bd396XMRPbHdnp-o-zop-74" value="消耗 &lt;font color=&quot;#ff0000&quot;&gt;1600&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bd396XMRPbHdnp-o-zop-74" value="消耗 &lt;font&gt;1600&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="1601" y="1810" width="159.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bd396XMRPbHdnp-o-zop-76" value="错误消耗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -900,6 +900,42 @@
         </mxCell>
         <mxCell id="bd396XMRPbHdnp-o-zop-77" value="调整后" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1820" y="1520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bd396XMRPbHdnp-o-zop-78" value="消耗 1000 这一笔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1801.5" y="1600" width="159.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bd396XMRPbHdnp-o-zop-79" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1801.5" y="1560" width="159.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bd396XMRPbHdnp-o-zop-80" value="消耗 1000 这一笔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1801.5" y="1620" width="159.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bd396XMRPbHdnp-o-zop-81" value="消耗 1000 这一笔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1801.5" y="1640" width="159.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bd396XMRPbHdnp-o-zop-82" value="消耗 1000 这一笔 100&lt;br&gt;消耗 1400这一笔 200" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1801.5" y="1660" width="159.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bd396XMRPbHdnp-o-zop-83" value="消耗 1400" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1801.5" y="1690" width="159.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bd396XMRPbHdnp-o-zop-84" value="消耗 1400" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1801.5" y="1710" width="159.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bd396XMRPbHdnp-o-zop-85" value="消耗 1400" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1801.5" y="1730" width="159.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bd396XMRPbHdnp-o-zop-86" value="消耗 1400" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1801.5" y="1750" width="159.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bd396XMRPbHdnp-o-zop-87" value="消耗 &lt;font&gt;1800&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="1801.5" y="1770" width="159.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bd396XMRPbHdnp-o-zop-88" value="消耗&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;1800&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="1801.5" y="1790" width="159.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bd396XMRPbHdnp-o-zop-89" value="消耗&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;1800&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="1801.5" y="1810" width="159.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
