@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T11:20:33.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tYEphwvs-mY5zO1wUjZW" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T11:20:43.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vztzXY2HbQO5W4VHjOWF" version="21.6.1" type="github">
   <diagram name="第 1 页" id="xHlVvCODJjh1_ycXmK6b">
     <mxGraphModel dx="989" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="40" y="280" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-v63V6HLcKUYAtbRwrVV-13" value="1、找到突破点&lt;br&gt;&lt;br&gt;比如花100W，收获1000W&lt;br&gt;怎么能花120W，收获2000W&lt;br&gt;&lt;br&gt;2、&lt;br&gt;机会分析 Analyze&lt;br&gt;愿景及规划 Introduction （可以跳过，独立产品线可以稍微提一下）&lt;br&gt;年度目的 Objective&lt;br&gt;年度目标 Goal&lt;br&gt;年度策略 Strategy&lt;br&gt;进度计划 Plan&lt;br&gt;资源需求 Resource&lt;br&gt;&lt;br&gt;所有策略都来源于机会分析，对应机会分析" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="280" width="200" height="270" as="geometry" />
+          <mxGeometry x="440" y="280" width="200" height="280" as="geometry" />
         </mxCell>
         <mxCell id="-v63V6HLcKUYAtbRwrVV-18" value="回顾&lt;br&gt;目标" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="40" y="760" width="80" height="80" as="geometry" />
