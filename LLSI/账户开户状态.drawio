@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T11:08:06.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="P_aGRtK_u3B09Ft1ZUmC" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-17T11:12:10.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Sd-CE_ewG8lriMo898Hz" version="21.6.2" type="github">
   <diagram name="第 1 页" id="zjoSo2deyhrzWKz1Onv5">
-    <mxGraphModel dx="1195" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,7 +162,7 @@
             <mxPoint x="245" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2I5cYEZxr-buCp0mUcF-36" value="根据日常/冻结&lt;br&gt;进行记账" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="c2I5cYEZxr-buCp0mUcF-29" parent="1" source="c2I5cYEZxr-buCp0mUcF-29">
+        <mxCell id="c2I5cYEZxr-buCp0mUcF-36" value="根据日常/冻结&lt;br&gt;进行记账" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontColor=#FF0000;" edge="1" target="c2I5cYEZxr-buCp0mUcF-29" parent="1" source="c2I5cYEZxr-buCp0mUcF-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="320" as="sourcePoint" />
             <Array as="points">
@@ -227,10 +227,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2I5cYEZxr-buCp0mUcF-55" value="冻结成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=orthogonalEdgeStyle;elbow=vertical;rounded=0;exitX=0.4;exitY=0.54;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="c2I5cYEZxr-buCp0mUcF-3">
+        <mxCell id="c2I5cYEZxr-buCp0mUcF-55" value="作用冻结账号" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=orthogonalEdgeStyle;elbow=vertical;rounded=0;fontColor=#FF0000;" edge="1" parent="1" source="c2I5cYEZxr-buCp0mUcF-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="395" y="600.1500000000001" as="sourcePoint" />
             <mxPoint x="245" y="600.1500000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="580" />
+              <mxPoint x="380" y="600" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
