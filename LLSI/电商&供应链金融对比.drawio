@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T10:27:02.672Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Ky8dB9iQU9DzSEHhPfoP" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-21T10:30:07.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LN-e2o4C4jGNZo2rKtHV" version="21.6.2" type="github">
   <diagram name="第 1 页" id="DsP0ySoP5KuVm8gyESEJ">
-    <mxGraphModel dx="1918" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2154" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -383,12 +383,6 @@
         <mxCell id="Zc82YdljWbSj6C0rq8SS-84" value="国际结算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="2600" width="320" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="Zc82YdljWbSj6C0rq8SS-85" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1760" y="2160" as="sourcePoint" />
-            <mxPoint x="1760" y="2970" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Zc82YdljWbSj6C0rq8SS-86" value="用户模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="2320" width="320" height="240" as="geometry" />
         </mxCell>
@@ -398,8 +392,14 @@
         <mxCell id="Zc82YdljWbSj6C0rq8SS-88" value="客户模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920.5" y="2320" width="320" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="Zc82YdljWbSj6C0rq8SS-89" value="国际结算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zc82YdljWbSj6C0rq8SS-89" value="营销模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="2320" width="320" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc82YdljWbSj6C0rq8SS-91" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1760" y="2240" as="sourcePoint" />
+            <mxPoint x="1760" y="3050" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
