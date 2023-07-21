@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T03:18:07.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mDt7_NB5w21EHF0A9utT" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-21T03:24:18.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zysVw6TbJGjjkJmQleQd" version="21.6.2" type="github">
   <diagram name="第 1 页" id="DsP0ySoP5KuVm8gyESEJ">
-    <mxGraphModel dx="1195" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JTM_hWVtwOP50AUBhIqX-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+        <mxCell id="JTM_hWVtwOP50AUBhIqX-2" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="480" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="JTM_hWVtwOP50AUBhIqX-4" value="基础部分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="JTM_hWVtwOP50AUBhIqX-2">
-          <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="JTM_hWVtwOP50AUBhIqX-4" value="基础部分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="JTM_hWVtwOP50AUBhIqX-2" vertex="1">
+          <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JTM_hWVtwOP50AUBhIqX-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+        <mxCell id="JTM_hWVtwOP50AUBhIqX-3" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="40" width="480" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="JTM_hWVtwOP50AUBhIqX-5" value="基础部分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="JTM_hWVtwOP50AUBhIqX-3">
+        <mxCell id="JTM_hWVtwOP50AUBhIqX-5" value="基础部分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="JTM_hWVtwOP50AUBhIqX-3" vertex="1">
           <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JTM_hWVtwOP50AUBhIqX-7" value="单据系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="JTM_hWVtwOP50AUBhIqX-3">
+        <mxCell id="JTM_hWVtwOP50AUBhIqX-7" value="单据系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="JTM_hWVtwOP50AUBhIqX-3" vertex="1">
           <mxGeometry x="200" y="160" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JTM_hWVtwOP50AUBhIqX-8" value="（融资订单）&lt;br&gt;系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="JTM_hWVtwOP50AUBhIqX-3">
+        <mxCell id="JTM_hWVtwOP50AUBhIqX-8" value="（融资订单）&lt;br&gt;系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="JTM_hWVtwOP50AUBhIqX-3" vertex="1">
           <mxGeometry x="200" y="280" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
