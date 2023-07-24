@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T10:36:15.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HSBYgH8rCiNevcV1-jfu" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-24T10:43:52.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bb2e9U3e_gllgbh_tMNi" version="21.6.2" type="github">
   <diagram name="第 1 页" id="DsP0ySoP5KuVm8gyESEJ">
     <mxGraphModel dx="1763" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -449,7 +449,7 @@
         <mxCell id="Zc82YdljWbSj6C0rq8SS-109" value="征信数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="2640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Zc82YdljWbSj6C0rq8SS-110" value="优惠信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zc82YdljWbSj6C0rq8SS-110" value="优惠方案信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="2360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Zc82YdljWbSj6C0rq8SS-111" value="客户合作签署" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -461,11 +461,20 @@
         <mxCell id="Zc82YdljWbSj6C0rq8SS-113" value="客户合作签署" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="2410" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Zc82YdljWbSj6C0rq8SS-114" value="优惠产品有效时间段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zc82YdljWbSj6C0rq8SS-114" value="优惠产品有效时间段管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="2360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Zc82YdljWbSj6C0rq8SS-115" value="优惠信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zc82YdljWbSj6C0rq8SS-115" value="客户标识" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="2410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc82YdljWbSj6C0rq8SS-116" value="活动有效时间段管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="2410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc82YdljWbSj6C0rq8SS-117" value="活动投放渠道管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="2460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc82YdljWbSj6C0rq8SS-118" value="活动投放渠道管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="2460" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
