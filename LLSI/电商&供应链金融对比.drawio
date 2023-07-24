@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T10:48:07.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-LMRIkGqb5hC0ovm5zMv" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-24T10:48:57.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Xyv8XgxJdv8o4j5W8QBN" version="21.6.2" type="github">
   <diagram name="第 1 页" id="DsP0ySoP5KuVm8gyESEJ">
     <mxGraphModel dx="2154" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -493,7 +493,7 @@
         <mxCell id="Zc82YdljWbSj6C0rq8SS-119" value="收款/付款合规" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="2690" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Zc82YdljWbSj6C0rq8SS-120" value="收款/付款合规" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zc82YdljWbSj6C0rq8SS-120" value="交易过程管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="2690" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
