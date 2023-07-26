@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T06:15:21.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jJK_KE4m0AebmykbL5aG" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T06:18:03.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mEqNWhgDxb3_D-4dhLhx" version="21.6.5" type="github">
   <diagram name="第 1 页" id="cnlhaJmNF9WSGoH__1HM">
-    <mxGraphModel dx="1887" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,7 +303,7 @@
           <mxGeometry x="2173" y="1554" width="97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-72" value="华美" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" diagramCategory="uml" diagramName="Lifeline" vertex="1">
-          <mxGeometry x="1370" y="44" width="100" height="2000" as="geometry" />
+          <mxGeometry x="1350" y="40" width="100" height="2000" as="geometry" />
         </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-73" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="y_fuz6T118yYJJkcoksZ-72" diagramCategory="uml" diagramName="SelfCall" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="40" as="geometry" />
@@ -321,7 +321,7 @@
           <mxGeometry x="45" y="160" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-76" value="联易融服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" diagramCategory="uml" diagramName="Lifeline" vertex="1">
-          <mxGeometry x="1570" y="44" width="100" height="2000" as="geometry" />
+          <mxGeometry x="1535" y="39" width="130" height="2000" as="geometry" />
         </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-77" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="y_fuz6T118yYJJkcoksZ-76" diagramCategory="uml" diagramName="Activation" vertex="1">
           <mxGeometry x="45" y="160" width="10" height="40" as="geometry" />
@@ -330,14 +330,14 @@
           <mxGeometry x="45" y="240" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-79" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="y_fuz6T118yYJJkcoksZ-76" diagramCategory="uml" diagramName="SelfCall" vertex="1">
-          <mxGeometry x="45" y="360" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="316" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="y_fuz6T118yYJJkcoksZ-80" value="文件备份(如需要)" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="y_fuz6T118yYJJkcoksZ-76" target="y_fuz6T118yYJJkcoksZ-79" edge="1">
+        <mxCell id="y_fuz6T118yYJJkcoksZ-80" value="文件备份" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="y_fuz6T118yYJJkcoksZ-76" target="y_fuz6T118yYJJkcoksZ-79" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="280" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="75" y="280" />
-              <mxPoint x="75" y="360" />
+              <mxPoint x="75" y="316" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -360,6 +360,20 @@
         </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-85" value="调用失败" style="rhombus;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="y_fuz6T118yYJJkcoksZ-76" diagramCategory="general" diagramName="Diamond" vertex="1">
           <mxGeometry x="10" y="1573" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y_fuz6T118yYJJkcoksZ-99" value="通过文件名判断&lt;br /&gt;文件是否重复" style="rhombus;whiteSpace=wrap;html=1;" parent="y_fuz6T118yYJJkcoksZ-76" diagramCategory="general" diagramName="Diamond" vertex="1">
+          <mxGeometry x="-30" y="396" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y_fuz6T118yYJJkcoksZ-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="y_fuz6T118yYJJkcoksZ-76" source="y_fuz6T118yYJJkcoksZ-79" target="y_fuz6T118yYJJkcoksZ-99" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y_fuz6T118yYJJkcoksZ-101" value="否，&lt;br&gt;将文件里面内容全部解析" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="y_fuz6T118yYJJkcoksZ-76" source="y_fuz6T118yYJJkcoksZ-99" target="y_fuz6T118yYJJkcoksZ-81" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="540.03" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-86" value="联易融内管" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" diagramCategory="uml" diagramName="Lifeline" vertex="1">
           <mxGeometry x="1770" y="44" width="110" height="2000" as="geometry" />
@@ -398,7 +412,7 @@
         <mxCell id="y_fuz6T118yYJJkcoksZ-96" value="文件展示" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y_fuz6T118yYJJkcoksZ-78" target="y_fuz6T118yYJJkcoksZ-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y_fuz6T118yYJJkcoksZ-97" value="文件下载&lt;br /&gt;可下载正常也可下载异常" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y_fuz6T118yYJJkcoksZ-86" target="y_fuz6T118yYJJkcoksZ-86" edge="1">
+        <mxCell id="y_fuz6T118yYJJkcoksZ-97" value="文件下载" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y_fuz6T118yYJJkcoksZ-86" target="y_fuz6T118yYJJkcoksZ-86" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1940" y="304" />
@@ -410,24 +424,10 @@
           <mxGeometry x="-0.2167" relative="1" as="geometry">
             <mxPoint x="1620" y="314" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1750" y="512" />
+              <mxPoint x="1750" y="470" />
               <mxPoint x="1750" y="314" />
             </Array>
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y_fuz6T118yYJJkcoksZ-99" value="通过文件名判断&lt;br /&gt;文件是否重复" style="rhombus;whiteSpace=wrap;html=1;" parent="1" diagramCategory="general" diagramName="Diamond" vertex="1">
-          <mxGeometry x="1540" y="482" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y_fuz6T118yYJJkcoksZ-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y_fuz6T118yYJJkcoksZ-79" target="y_fuz6T118yYJJkcoksZ-99" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="y_fuz6T118yYJJkcoksZ-101" value="否，&lt;br /&gt;解析成&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;单条数据&lt;/font&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="y_fuz6T118yYJJkcoksZ-99" target="y_fuz6T118yYJJkcoksZ-81" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1620" y="584.03" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1660" y="604" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-102" value="SCB" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
