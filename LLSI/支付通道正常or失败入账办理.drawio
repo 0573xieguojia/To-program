@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T06:18:03.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mEqNWhgDxb3_D-4dhLhx" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T06:40:41.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qhC2UldnCDHRdnSahZ0W" version="21.6.5" type="github">
   <diagram name="第 1 页" id="cnlhaJmNF9WSGoH__1HM">
-    <mxGraphModel dx="920" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="434" dy="194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -309,7 +309,7 @@
           <mxGeometry x="45" y="80" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-74" value="放 prior day文件到华美SFTP" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="y_fuz6T118yYJJkcoksZ-72" target="y_fuz6T118yYJJkcoksZ-73" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0068" relative="1" as="geometry">
             <mxPoint x="55" y="60" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="80" y="60" />
@@ -324,20 +324,20 @@
           <mxGeometry x="1535" y="39" width="130" height="2000" as="geometry" />
         </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-77" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="y_fuz6T118yYJJkcoksZ-76" diagramCategory="uml" diagramName="Activation" vertex="1">
-          <mxGeometry x="45" y="160" width="10" height="40" as="geometry" />
+          <mxGeometry x="60" y="161" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-78" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="y_fuz6T118yYJJkcoksZ-76" diagramCategory="uml" diagramName="Activation" vertex="1">
-          <mxGeometry x="45" y="240" width="10" height="40" as="geometry" />
+          <mxGeometry x="60" y="240" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-79" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="y_fuz6T118yYJJkcoksZ-76" diagramCategory="uml" diagramName="SelfCall" vertex="1">
-          <mxGeometry x="45" y="316" width="10" height="40" as="geometry" />
+          <mxGeometry x="59" y="321" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-80" value="文件备份" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="y_fuz6T118yYJJkcoksZ-76" target="y_fuz6T118yYJJkcoksZ-79" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="280" as="sourcePoint" />
+            <mxPoint x="64" y="285" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="75" y="280" />
-              <mxPoint x="75" y="316" />
+              <mxPoint x="89" y="285" />
+              <mxPoint x="89" y="321" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -362,7 +362,7 @@
           <mxGeometry x="10" y="1573" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-99" value="通过文件名判断&lt;br /&gt;文件是否重复" style="rhombus;whiteSpace=wrap;html=1;" parent="y_fuz6T118yYJJkcoksZ-76" diagramCategory="general" diagramName="Diamond" vertex="1">
-          <mxGeometry x="-30" y="396" width="160" height="60" as="geometry" />
+          <mxGeometry x="-16" y="401" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="y_fuz6T118yYJJkcoksZ-76" source="y_fuz6T118yYJJkcoksZ-79" target="y_fuz6T118yYJJkcoksZ-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -378,11 +378,8 @@
         <mxCell id="y_fuz6T118yYJJkcoksZ-86" value="联易融内管" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" diagramCategory="uml" diagramName="Lifeline" vertex="1">
           <mxGeometry x="1770" y="44" width="110" height="2000" as="geometry" />
         </mxCell>
-        <mxCell id="y_fuz6T118yYJJkcoksZ-87" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="y_fuz6T118yYJJkcoksZ-86" diagramCategory="uml" diagramName="Activation" vertex="1">
-          <mxGeometry x="45" y="240" width="10" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-88" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="y_fuz6T118yYJJkcoksZ-86" diagramCategory="uml" diagramName="Activation" vertex="1">
-          <mxGeometry x="45" y="320" width="10" height="40" as="geometry" />
+          <mxGeometry x="50" y="316" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-89" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="y_fuz6T118yYJJkcoksZ-86" diagramCategory="uml" diagramName="Activation" vertex="1">
           <mxGeometry x="50" y="1310" width="10" height="130" as="geometry" />
@@ -405,19 +402,26 @@
         <mxCell id="y_fuz6T118yYJJkcoksZ-95" value="文件取回" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y_fuz6T118yYJJkcoksZ-75" target="y_fuz6T118yYJJkcoksZ-78" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1420" y="304" />
+              <mxPoint x="1420" y="230" />
+              <mxPoint x="1420" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-96" value="文件展示" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y_fuz6T118yYJJkcoksZ-78" target="y_fuz6T118yYJJkcoksZ-87" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="y_fuz6T118yYJJkcoksZ-97" value="文件下载" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y_fuz6T118yYJJkcoksZ-86" target="y_fuz6T118yYJJkcoksZ-86" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1940" y="304" />
-              <mxPoint x="1940" y="384" />
+              <mxPoint x="1710" y="299" />
+              <mxPoint x="1710" y="300" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_fuz6T118yYJJkcoksZ-97" value="文件下载" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y_fuz6T118yYJJkcoksZ-87" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1900" y="304" />
+              <mxPoint x="1900" y="370" />
+            </Array>
+            <mxPoint x="1830" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-98" value="是，&lt;br&gt;保留此文件" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;align=left;fontColor=#FF0000;" parent="1" source="y_fuz6T118yYJJkcoksZ-99" edge="1">
@@ -570,6 +574,9 @@
               <mxPoint x="1750" y="1434" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="y_fuz6T118yYJJkcoksZ-87" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" diagramCategory="uml" diagramName="Activation" vertex="1">
+          <mxGeometry x="1820" y="280" width="10" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
