@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T06:49:55.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="W07K-y-UjrNH-d42xCwf" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T06:51:07.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lmWX3z0s4flrb7L400HQ" version="21.6.5" type="github">
   <diagram name="第 1 页" id="cnlhaJmNF9WSGoH__1HM">
-    <mxGraphModel dx="1136" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1373" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,15 +345,14 @@
           <mxGeometry x="60" y="521" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-82" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="y_fuz6T118yYJJkcoksZ-76" diagramCategory="uml" diagramName="SelfCall" vertex="1">
-          <mxGeometry x="59" y="640.03" width="10" height="40" as="geometry" />
+          <mxGeometry x="60" y="601" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="y_fuz6T118yYJJkcoksZ-83" value="执行入账通知" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=1.049;exitY=0.498;exitDx=0;exitDy=0;exitPerimeter=0;" parent="y_fuz6T118yYJJkcoksZ-76" target="y_fuz6T118yYJJkcoksZ-82" edge="1" source="y_fuz6T118yYJJkcoksZ-81">
+        <mxCell id="y_fuz6T118yYJJkcoksZ-83" value="运行规则B，&lt;br&gt;执行入账通知" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=1.049;exitY=0.498;exitDx=0;exitDy=0;exitPerimeter=0;" parent="y_fuz6T118yYJJkcoksZ-76" target="y_fuz6T118yYJJkcoksZ-82" edge="1" source="y_fuz6T118yYJJkcoksZ-81">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="620.03" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="72" y="541" />
-              <mxPoint x="125" y="541" />
-              <mxPoint x="125" y="640" />
+              <mxPoint x="105" y="541" />
+              <mxPoint x="105" y="601" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -492,7 +491,7 @@
           <mxGeometry x="1540" y="1104" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-116" value="&lt;span style&gt;写入渠道通知失败记录表account_notify_fail_info&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
-          <mxGeometry x="2300" y="974" width="120" height="60" as="geometry" />
+          <mxGeometry x="2280" y="1009" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y_fuz6T118yYJJkcoksZ-117" value="满足校验，通过" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0000;" parent="1" source="y_fuz6T118yYJJkcoksZ-119" target="y_fuz6T118yYJJkcoksZ-125" edge="1">
           <mxGeometry relative="1" as="geometry">
