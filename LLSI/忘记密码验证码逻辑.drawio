@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T10:46:14.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="u7mLGV5eihikQEBe_CTx" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T10:49:30.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7TaJ2-b7P-mXrXRdpVVt" version="21.6.5" type="github">
   <diagram name="第 1 页" id="ABFjYovpaCcEatOb6muG">
     <mxGraphModel dx="1140" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9XtBeBoNdV7PvsVut8HQ-6" value="内容校验 /&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="9XtBeBoNdV7PvsVut8HQ-6" value="内容校验 / 文字格式标准" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="140" y="200" width="280" height="140" as="geometry" />
         </mxCell>
         <mxCell id="9XtBeBoNdV7PvsVut8HQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9XtBeBoNdV7PvsVut8HQ-1" target="9XtBeBoNdV7PvsVut8HQ-6">
