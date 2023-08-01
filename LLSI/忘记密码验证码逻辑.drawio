@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T10:21:50.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="unk2h4HtVsOBonPs-MHJ" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T10:41:35.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6pD7Sd9l4HlmyZcyX442" version="21.6.5" type="github">
   <diagram name="第 1 页" id="ABFjYovpaCcEatOb6muG">
-    <mxGraphModel dx="1653" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="945" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,10 @@
           <mxGeometry x="240" y="80" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9XtBeBoNdV7PvsVut8HQ-2" value="请输入邮箱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9XtBeBoNdV7PvsVut8HQ-3" value="请获取验证码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9XtBeBoNdV7PvsVut8HQ-4" value="请填写新密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="400" width="120" height="60" as="geometry" />
