@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T07:21:42.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="8SdZypKa0ON7EcOBSZDK" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T07:29:33.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="6RrfHQd2mgpOH20TcPvz" version="21.6.6" type="github">
   <diagram name="第 1 页" id="_3mwSGDof0DfkYGqECy5">
-    <mxGraphModel dx="1641" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1804" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -673,7 +673,7 @@
           <mxGeometry x="3150" y="40" width="100" height="600" as="geometry" />
         </mxCell>
         <mxCell id="4HDGwDUGOaejXRRnFCTH-10" value="开户成功" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="2490" y="90" width="950" height="170" as="geometry" />
+          <mxGeometry x="2490" y="90" width="950" height="160" as="geometry" />
         </mxCell>
         <mxCell id="4HDGwDUGOaejXRRnFCTH-11" value="申请开通跨境收付款" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=0.5;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -717,10 +717,10 @@
             <mxPoint x="3035" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4HDGwDUGOaejXRRnFCTH-22" value="返回开户" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="4HDGwDUGOaejXRRnFCTH-12">
+        <mxCell id="4HDGwDUGOaejXRRnFCTH-22" value="返回开户成功确认文件" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0009" relative="1" as="geometry">
-            <mxPoint x="3353" y="209.71" as="sourcePoint" />
-            <mxPoint x="3203" y="209.71" as="targetPoint" />
+            <mxPoint x="3353" y="219.76000000000002" as="sourcePoint" />
+            <mxPoint x="2885" y="219.8119047619047" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
