@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T11:32:34.323Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="X4TxgeWDhnfw_qTdp9bA" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T11:36:00.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="mMWQdcj4WVfcoWe0QlY2" version="21.6.6" type="github">
   <diagram name="第 1 页" id="_3mwSGDof0DfkYGqECy5">
     <mxGraphModel dx="2195" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -963,6 +963,15 @@
             <mxPoint x="3325" y="1645" as="sourcePoint" />
             <mxPoint x="3610" y="1670" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4HDGwDUGOaejXRRnFCTH-101" value="1. eCas 因为不会自动日切划转，渣打会提供给联易融利息吗？" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2605" y="1800" width="395" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4HDGwDUGOaejXRRnFCTH-102" value="2.可以开设联易融 sub account ？&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2605" y="1880" width="395" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4HDGwDUGOaejXRRnFCTH-103" value="3.同一套 eCas 里面； master 和 sub account 资金划转需要怎么处理？" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2605" y="1960" width="395" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
