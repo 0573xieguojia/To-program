@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T08:35:43.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="8tML5JiWdnMmaVMmXhdi" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T06:41:43.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="sdbDxe2-hXDxoTQFeseQ" version="21.6.6" type="github">
   <diagram name="第 1 页" id="_3mwSGDof0DfkYGqECy5">
     <mxGraphModel dx="2382" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -663,16 +663,13 @@
         <mxCell id="4HDGwDUGOaejXRRnFCTH-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="4HDGwDUGOaejXRRnFCTH-5">
           <mxGeometry x="45" y="360" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4HDGwDUGOaejXRRnFCTH-29" value="1、备份&lt;br&gt;2、解析intraday文件" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="4HDGwDUGOaejXRRnFCTH-28" parent="4HDGwDUGOaejXRRnFCTH-5">
+        <mxCell id="4HDGwDUGOaejXRRnFCTH-29" value="1、定时取回文件&lt;br&gt;2、备份&lt;br&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="4HDGwDUGOaejXRRnFCTH-28" parent="4HDGwDUGOaejXRRnFCTH-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="340" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="80" y="370" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="4HDGwDUGOaejXRRnFCTH-30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="4HDGwDUGOaejXRRnFCTH-5">
-          <mxGeometry x="45" y="440" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4HDGwDUGOaejXRRnFCTH-6" value="内管端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2990" y="40" width="100" height="600" as="geometry" />
@@ -744,7 +741,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4HDGwDUGOaejXRRnFCTH-25" value="返回交易intraday文件" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="4HDGwDUGOaejXRRnFCTH-25" value="返回交易intraday文件，放到H2H上面" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0009" relative="1" as="geometry">
             <mxPoint x="3353" y="329.71000000000004" as="sourcePoint" />
             <mxPoint x="2885" y="329.7619047619047" as="targetPoint" />
