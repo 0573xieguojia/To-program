@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T06:41:43.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="sdbDxe2-hXDxoTQFeseQ" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T06:47:06.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Bui-9quF9g-949T8eVII" version="21.6.6" type="github">
   <diagram name="第 1 页" id="_3mwSGDof0DfkYGqECy5">
     <mxGraphModel dx="2382" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -969,6 +969,9 @@
         </mxCell>
         <mxCell id="4HDGwDUGOaejXRRnFCTH-105" value="3. eCas 怎么实现 客户 POBO （pay on behalf of...）" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="2605" y="1960" width="395" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4HDGwDUGOaejXRRnFCTH-106" value="通过文件名判断&lt;br style=&quot;box-sizing: content-box; margin: 0px; padding: 0px; -webkit-font-smoothing: antialiased; font-variant-ligatures: no-common-ligatures; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;font-variant-ligatures: no-common-ligatures; background-color: rgb(248, 249, 250);&quot;&gt;文件是否重复&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="480" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
