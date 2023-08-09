@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T08:27:49.739Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="cjjAZ9LtRwr5OTTOJXtI" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T08:31:33.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="jRxGRh3qMtzSugF4Yqc8" version="21.6.6" type="github">
   <diagram name="第 1 页" id="_3mwSGDof0DfkYGqECy5">
-    <mxGraphModel dx="1187" dy="184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1863" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -683,7 +683,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4HDGwDUGOaejXRRnFCTH-144" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="4HDGwDUGOaejXRRnFCTH-5">
-          <mxGeometry x="45" y="920" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="940" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4HDGwDUGOaejXRRnFCTH-6" value="内管端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="3140" y="40" width="100" height="1200" as="geometry" />
@@ -698,7 +698,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4HDGwDUGOaejXRRnFCTH-137" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="4HDGwDUGOaejXRRnFCTH-6">
-          <mxGeometry x="45" y="880" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="880" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4HDGwDUGOaejXRRnFCTH-139" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="4HDGwDUGOaejXRRnFCTH-6">
           <mxGeometry x="45" y="800" width="10" height="40" as="geometry" />
@@ -1046,7 +1046,7 @@
         <mxCell id="4HDGwDUGOaejXRRnFCTH-119" value="是否SCB eCas 物理账户" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2951" y="660" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4HDGwDUGOaejXRRnFCTH-120" value="执行规则B" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4HDGwDUGOaejXRRnFCTH-112" target="4HDGwDUGOaejXRRnFCTH-119">
+        <mxCell id="4HDGwDUGOaejXRRnFCTH-120" value="执行&lt;font color=&quot;#ff0000&quot;&gt;规则A&lt;/font&gt;" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4HDGwDUGOaejXRRnFCTH-112" target="4HDGwDUGOaejXRRnFCTH-119">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2990" y="610" />
@@ -1115,12 +1115,12 @@
             <mxPoint x="3196" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4HDGwDUGOaejXRRnFCTH-145" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="4HDGwDUGOaejXRRnFCTH-137" target="4HDGwDUGOaejXRRnFCTH-144">
+        <mxCell id="4HDGwDUGOaejXRRnFCTH-145" value="两次审核之后&lt;br&gt;调用记账" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="4HDGwDUGOaejXRRnFCTH-137" target="4HDGwDUGOaejXRRnFCTH-144">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3120" y="980" as="sourcePoint" />
             <mxPoint x="3040" y="960" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3120" y="960" />
+              <mxPoint x="3070" y="980" />
             </Array>
           </mxGeometry>
         </mxCell>
