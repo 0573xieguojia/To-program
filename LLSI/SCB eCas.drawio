@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T08:06:58.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Go8a1no0yXQ8dbY1wLL0" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T08:25:45.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="i50sik3-_IUme3-QyOPZ" version="21.6.6" type="github">
   <diagram name="第 1 页" id="_3mwSGDof0DfkYGqECy5">
-    <mxGraphModel dx="2727" dy="969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1353" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -683,7 +683,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4HDGwDUGOaejXRRnFCTH-6" value="内管端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="3140" y="40" width="100" height="600" as="geometry" />
+          <mxGeometry x="3140" y="40" width="100" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="4HDGwDUGOaejXRRnFCTH-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="4HDGwDUGOaejXRRnFCTH-6">
           <mxGeometry x="45" y="80" width="10" height="40" as="geometry" />
@@ -694,11 +694,20 @@
             <mxPoint x="45" y="99.75999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4HDGwDUGOaejXRRnFCTH-137" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="4HDGwDUGOaejXRRnFCTH-6">
+          <mxGeometry x="45" y="880" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4HDGwDUGOaejXRRnFCTH-139" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="4HDGwDUGOaejXRRnFCTH-6">
+          <mxGeometry x="45" y="800" width="10" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="4HDGwDUGOaejXRRnFCTH-7" value="运营" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="3300" y="40" width="100" height="600" as="geometry" />
+          <mxGeometry x="3300" y="40" width="100" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="4HDGwDUGOaejXRRnFCTH-116" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="4HDGwDUGOaejXRRnFCTH-7">
           <mxGeometry x="45" y="360" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4HDGwDUGOaejXRRnFCTH-141" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="4HDGwDUGOaejXRRnFCTH-7">
+          <mxGeometry x="45" y="810" width="10" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4HDGwDUGOaejXRRnFCTH-10" value="开户成功" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="2640" y="90" width="950" height="160" as="geometry" />
@@ -719,7 +728,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4HDGwDUGOaejXRRnFCTH-16" value="渣打" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="3458" y="40" width="100" height="600" as="geometry" />
+          <mxGeometry x="3458" y="40" width="100" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="4HDGwDUGOaejXRRnFCTH-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="4HDGwDUGOaejXRRnFCTH-16">
           <mxGeometry x="45" y="80" width="10" height="120" as="geometry" />
@@ -1050,6 +1059,13 @@
         <mxCell id="4HDGwDUGOaejXRRnFCTH-124" value="写入渠道通知失败记录表account_notify_fail_info" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3830" y="665" width="160" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="4HDGwDUGOaejXRRnFCTH-138" value="满足校验，执行收款" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4HDGwDUGOaejXRRnFCTH-126" target="4HDGwDUGOaejXRRnFCTH-137">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3030" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4HDGwDUGOaejXRRnFCTH-126" value="满足所有条件" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2950" y="760" width="160" height="60" as="geometry" />
         </mxCell>
@@ -1059,9 +1075,13 @@
         <mxCell id="4HDGwDUGOaejXRRnFCTH-128" value="1.交易参考号不为空&lt;br&gt;2.txn date不为空&lt;br&gt;3.value date不为空&lt;br&gt;4.&lt;span style=&quot;&quot;&gt;交易金额不为空&lt;br&gt;&lt;/span&gt;5.交易币种不为空&lt;br&gt;6.VA子账号不为空" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontColor=#000000;align=left;" diagramCategory="general" diagramName="Document" vertex="1" parent="1">
           <mxGeometry x="2530" y="720" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="4HDGwDUGOaejXRRnFCTH-132" value="有任意条件不满足" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="4HDGwDUGOaejXRRnFCTH-133" source="4HDGwDUGOaejXRRnFCTH-126">
+        <mxCell id="4HDGwDUGOaejXRRnFCTH-132" value="有任意条件不满足" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0000;" edge="1" parent="1" target="4HDGwDUGOaejXRRnFCTH-139" source="4HDGwDUGOaejXRRnFCTH-126">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3130" y="785" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="3148" y="790" />
+              <mxPoint x="3148" y="850" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1069,10 +1089,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4HDGwDUGOaejXRRnFCTH-133" value="执行" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3630" y="765" width="110" height="50" as="geometry" />
+          <mxGeometry x="3630" y="840" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4HDGwDUGOaejXRRnFCTH-134" value="数据存入入账异常办理，发送告警" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3830" y="765" width="160" height="50" as="geometry" />
+          <mxGeometry x="3830" y="840" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4HDGwDUGOaejXRRnFCTH-140" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;entryX=-0.009;entryY=0.089;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.023;exitY=0.091;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4HDGwDUGOaejXRRnFCTH-139" target="4HDGwDUGOaejXRRnFCTH-133">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3200" y="844" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4HDGwDUGOaejXRRnFCTH-142" value="异常入账办理" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3344.5" y="870.1538461538462" as="sourcePoint" />
+            <mxPoint x="3195" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4HDGwDUGOaejXRRnFCTH-143" value="正常收款办理" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3345.5" y="930.1538461538462" as="sourcePoint" />
+            <mxPoint x="3196" y="930" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
