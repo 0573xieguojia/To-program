@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T05:49:14.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="vYm1U_IGd29Yc6g2h9Qj" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T05:56:19.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="zatjkj0RxzAi1oOcCqgS" version="21.6.8" type="github">
   <diagram name="第 1 页" id="_3mwSGDof0DfkYGqECy5">
     <mxGraphModel dx="2474" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1125,22 +1125,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NkteqkRa2qtYGqtsIvR7-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-799.9999999999995" y="1200" width="644" height="480" as="geometry" />
+          <mxGeometry x="-800" y="1200" width="720" height="720" as="geometry" />
         </mxCell>
         <mxCell id="NkteqkRa2qtYGqtsIvR7-2" value="客户" style="swimlane;startSize=20;html=1;" vertex="1" parent="NkteqkRa2qtYGqtsIvR7-1">
-          <mxGeometry y="20" width="120" height="460" as="geometry" />
+          <mxGeometry y="20" width="120" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="NkteqkRa2qtYGqtsIvR7-3" value="Lane 2" style="swimlane;startSize=20;html=1;" vertex="1" parent="NkteqkRa2qtYGqtsIvR7-1">
-          <mxGeometry x="120" y="20" width="120" height="460" as="geometry" />
+        <mxCell id="NkteqkRa2qtYGqtsIvR7-3" value="客户端" style="swimlane;startSize=20;html=1;" vertex="1" parent="NkteqkRa2qtYGqtsIvR7-1">
+          <mxGeometry x="120" y="20" width="120" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="NkteqkRa2qtYGqtsIvR7-4" value="Lane 3" style="swimlane;startSize=20;html=1;" vertex="1" parent="NkteqkRa2qtYGqtsIvR7-1">
-          <mxGeometry x="240" y="20" width="164" height="460" as="geometry" />
+        <mxCell id="NkteqkRa2qtYGqtsIvR7-4" value="内管端" style="swimlane;startSize=20;html=1;" vertex="1" parent="NkteqkRa2qtYGqtsIvR7-1">
+          <mxGeometry x="240" y="20" width="160" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="NkteqkRa2qtYGqtsIvR7-5" value="Lane 3" style="swimlane;startSize=20;html=1;" vertex="1" parent="NkteqkRa2qtYGqtsIvR7-1">
-          <mxGeometry x="404" y="20" width="120" height="460" as="geometry" />
+        <mxCell id="NkteqkRa2qtYGqtsIvR7-5" value="运营" style="swimlane;startSize=20;html=1;" vertex="1" parent="NkteqkRa2qtYGqtsIvR7-1">
+          <mxGeometry x="400" y="20" width="160" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="NkteqkRa2qtYGqtsIvR7-6" value="Lane 3" style="swimlane;startSize=20;html=1;" vertex="1" parent="NkteqkRa2qtYGqtsIvR7-1">
-          <mxGeometry x="524" y="20" width="120" height="460" as="geometry" />
+        <mxCell id="NkteqkRa2qtYGqtsIvR7-6" value="服务" style="swimlane;startSize=20;html=1;" vertex="1" parent="NkteqkRa2qtYGqtsIvR7-1">
+          <mxGeometry x="560" y="20" width="160" height="700" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
