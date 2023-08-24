@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T03:15:41.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Iu5bIpraubhnfT-qQoOy" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T03:18:00.276Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="OBbp6j2d4Uiubhc93fk0" version="21.6.8" type="github">
   <diagram name="第 1 页" id="_3mwSGDof0DfkYGqECy5">
-    <mxGraphModel dx="2194" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1764" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1402,7 +1402,7 @@
         <mxCell id="NkteqkRa2qtYGqtsIvR7-150" value="支付通道" style="swimlane;startSize=20;html=1;" vertex="1" parent="NkteqkRa2qtYGqtsIvR7-119">
           <mxGeometry x="800" y="20" width="160" height="740" as="geometry" />
         </mxCell>
-        <mxCell id="NkteqkRa2qtYGqtsIvR7-140" value="收款人与付款人是不是同一个渠道" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="NkteqkRa2qtYGqtsIvR7-150">
+        <mxCell id="NkteqkRa2qtYGqtsIvR7-140" value="提供账单文件" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="NkteqkRa2qtYGqtsIvR7-150">
           <mxGeometry x="20" y="45" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
