@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T05:39:04.656Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="VuVhegqeEIzLyokCS4kK" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T05:40:35.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dxuC5iP3Azy2blLgzB4s" version="21.7.2" type="github">
   <diagram name="第 1 页" id="T3U8ABsXLm7v_3UPz6AF">
     <mxGraphModel dx="936" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -258,10 +258,22 @@
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-20" value="3" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="ErMAgn8fc8IvnbVAQgHE-19">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ErMAgn8fc8IvnbVAQgHE-21" value="success for post transaction&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-21" value="success for post transaction" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1875" y="360" as="sourcePoint" />
             <mxPoint x="1485" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-23" value="返回交易成功信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1474" y="360" as="sourcePoint" />
+            <mxPoint x="1284" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-24" value="返回交易成功信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1275" y="360" as="sourcePoint" />
+            <mxPoint x="1085" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
