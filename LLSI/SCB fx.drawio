@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T05:35:56.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="FqVd-kVcX7141t728iqD" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T05:39:04.656Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="VuVhegqeEIzLyokCS4kK" version="21.7.2" type="github">
   <diagram name="第 1 页" id="T3U8ABsXLm7v_3UPz6AF">
-    <mxGraphModel dx="784" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="936" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,6 +142,9 @@
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fFfVZfeuyMsTTlber2Bf-5">
           <mxGeometry x="45" y="200" width="10" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fFfVZfeuyMsTTlber2Bf-5">
+          <mxGeometry x="45" y="280" width="10" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="fFfVZfeuyMsTTlber2Bf-8" value="进入换汇页面，选择出钱账号；&lt;br&gt;填写对应想要买入或者卖出的币种&lt;br&gt;填写对应金额" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="1085" y="130" as="sourcePoint" />
@@ -221,8 +224,8 @@
         </mxCell>
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-13" value="确认换汇" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="1085" y="330" as="sourcePoint" />
-            <mxPoint x="1275" y="330" as="targetPoint" />
+            <mxPoint x="1085" y="320" as="sourcePoint" />
+            <mxPoint x="1275" y="320" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
@@ -232,14 +235,34 @@
         </mxCell>
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-16" value="确认换汇" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="1285" y="350" as="sourcePoint" />
-            <mxPoint x="1475" y="350" as="targetPoint" />
+            <mxPoint x="1285" y="320" as="sourcePoint" />
+            <mxPoint x="1475" y="320" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-17" value="2" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="ErMAgn8fc8IvnbVAQgHE-16">
           <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-19" value="确认换汇 post transaction" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="1485" y="320" as="sourcePoint" />
+            <mxPoint x="1875" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1590" y="320" />
+              <mxPoint x="1590" y="320" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-20" value="3" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="ErMAgn8fc8IvnbVAQgHE-19">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-21" value="success for post transaction&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1875" y="360" as="sourcePoint" />
+            <mxPoint x="1485" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
