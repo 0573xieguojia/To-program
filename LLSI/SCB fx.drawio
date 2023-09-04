@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T06:51:25.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="U8dW2E5elW1nbetDLxcd" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T06:59:42.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="VzgIjtT9kkwNY6NzbbqJ" version="21.7.2" type="github">
   <diagram name="第 1 页" id="T3U8ABsXLm7v_3UPz6AF">
-    <mxGraphModel dx="1404" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1685" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,21 +202,24 @@
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-6" value="返回rate，交易id" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint x="1875" y="280" as="sourcePoint" />
             <mxPoint x="1485" y="280" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-8" value="返回rate，交易id" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="fFfVZfeuyMsTTlber2Bf-12">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint x="1470" y="280" as="sourcePoint" />
             <mxPoint x="1285" y="280" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-9" value="返回rate，交易id" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint x="1275" y="280" as="sourcePoint" />
             <mxPoint x="1085" y="280" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
@@ -259,21 +262,24 @@
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-21" value="success for post transaction" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint x="1875" y="400" as="sourcePoint" />
             <mxPoint x="1485" y="400" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-23" value="返回交易成功信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0105" y="20" relative="1" as="geometry">
             <mxPoint x="1474" y="400" as="sourcePoint" />
             <mxPoint x="1284" y="400" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-24" value="返回交易成功信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint x="1275" y="400" as="sourcePoint" />
             <mxPoint x="1085" y="400" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
