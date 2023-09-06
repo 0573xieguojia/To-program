@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T10:54:49.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="6NHx5ye_yxT4ScxXLOnC" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T10:32:14.382Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="SQsic39MUa2_MBt6CBX0" version="21.7.2" type="github">
   <diagram name="第 1 页" id="T3U8ABsXLm7v_3UPz6AF">
     <mxGraphModel dx="1685" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -333,6 +333,108 @@
         </mxCell>
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-111" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ErMAgn8fc8IvnbVAQgHE-109">
           <mxGeometry x="45" y="360" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-112" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" diagramName="VerticalPool1" diagramCategory="BPMN general" parent="1">
+          <mxGeometry x="2160" y="40" width="820" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-113" value="客户" style="swimlane;html=1;startSize=20;" vertex="1" parent="ErMAgn8fc8IvnbVAQgHE-112">
+          <mxGeometry y="20" width="180" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-114" value="发起" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-113">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-115" value="获取提示" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-113">
+          <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-116" value="获得提示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-113">
+          <mxGeometry x="20" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-117" value="客户端" style="swimlane;html=1;startSize=20;" vertex="1" parent="ErMAgn8fc8IvnbVAQgHE-112">
+          <mxGeometry x="180" y="20" width="160" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-118" value="【按钮】新建换汇" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-117">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-117" source="ErMAgn8fc8IvnbVAQgHE-118" target="ErMAgn8fc8IvnbVAQgHE-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-120" value="填写买入/卖出货币+某一个买入/卖出 数额" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-117">
+          <mxGeometry x="20" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-121" value="Deal not available. Service is closed on Holiday.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-117">
+          <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-122" value="返回提示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-117">
+          <mxGeometry x="20" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-123" value="服务" style="swimlane;html=1;startSize=20;" vertex="1" parent="ErMAgn8fc8IvnbVAQgHE-112">
+          <mxGeometry x="340" y="20" width="160" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-123" source="ErMAgn8fc8IvnbVAQgHE-125" target="ErMAgn8fc8IvnbVAQgHE-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-125" value="抓数据" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-123">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-123" source="ErMAgn8fc8IvnbVAQgHE-127" target="ErMAgn8fc8IvnbVAQgHE-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-127" value="假期服务" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-123">
+          <mxGeometry x="20" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-128" value="买入或者卖出&lt;br&gt;币种命中假期" style="rhombus;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" diagramName="Diamond" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-123">
+          <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-129" value="获得银行提示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-123">
+          <mxGeometry x="20" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-130" value="内管端" style="swimlane;startSize=20;" vertex="1" diagramName="VerticalSwimlane" diagramCategory="BPMN general" parent="ErMAgn8fc8IvnbVAQgHE-112">
+          <mxGeometry x="500" y="20" width="160" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-131" value="渣打/ DBS" style="swimlane;startSize=20;" vertex="1" diagramName="VerticalSwimlane" diagramCategory="BPMN general" parent="ErMAgn8fc8IvnbVAQgHE-112">
+          <mxGeometry x="660" y="20" width="160" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-131" source="ErMAgn8fc8IvnbVAQgHE-133" target="ErMAgn8fc8IvnbVAQgHE-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-133" value="查询汇率" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-131">
+          <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-134" value="渣打币种假期接口" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-131">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-135" value="银行返回&lt;br /&gt;不可交易提示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-131">
+          <mxGeometry x="20" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-136" value="规则A" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;fontColor=#FF0000;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="ErMAgn8fc8IvnbVAQgHE-134" target="ErMAgn8fc8IvnbVAQgHE-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="ErMAgn8fc8IvnbVAQgHE-120" target="ErMAgn8fc8IvnbVAQgHE-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="ErMAgn8fc8IvnbVAQgHE-114" target="ErMAgn8fc8IvnbVAQgHE-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-139" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="ErMAgn8fc8IvnbVAQgHE-128" target="ErMAgn8fc8IvnbVAQgHE-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-140" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="ErMAgn8fc8IvnbVAQgHE-128" target="ErMAgn8fc8IvnbVAQgHE-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-141" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="ErMAgn8fc8IvnbVAQgHE-135" target="ErMAgn8fc8IvnbVAQgHE-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="ErMAgn8fc8IvnbVAQgHE-129" target="ErMAgn8fc8IvnbVAQgHE-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="ErMAgn8fc8IvnbVAQgHE-121" target="ErMAgn8fc8IvnbVAQgHE-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="ErMAgn8fc8IvnbVAQgHE-129" target="ErMAgn8fc8IvnbVAQgHE-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="ErMAgn8fc8IvnbVAQgHE-122" target="ErMAgn8fc8IvnbVAQgHE-116">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
