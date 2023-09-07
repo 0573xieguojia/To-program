@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T09:46:33.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="JoH900KglZCxFJCmFHL-" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T09:59:36.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="HIEvRS0gSYlHtSBbNrO6" version="21.7.2" type="github">
   <diagram name="第 1 页" id="T3U8ABsXLm7v_3UPz6AF">
     <mxGraphModel dx="2474" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -445,13 +445,13 @@
         <mxCell id="jroc4bdDvDVN9bcqX-NY-6" value="【&lt;font color=&quot;#0000ff&quot;&gt;按钮&lt;/font&gt;】确定交易" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-123">
           <mxGeometry x="20" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-8" value="DBS 校验汇率是否在可用时间内" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;" vertex="1" diagramName="Diamond" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-123">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-8" value="DBS 校验汇率是否在可用" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;" vertex="1" diagramName="Diamond" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-123">
           <mxGeometry x="20" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jroc4bdDvDVN9bcqX-NY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-123" source="jroc4bdDvDVN9bcqX-NY-6" target="jroc4bdDvDVN9bcqX-NY-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-12" value="SCB 校验汇率是否在可用时间内" style="rhombus;whiteSpace=wrap;html=1;fontColor=#FF0000;strokeColor=#000000;" vertex="1" diagramName="Diamond" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-123">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-12" value="SCB 校验汇率是否在可用" style="rhombus;whiteSpace=wrap;html=1;fontColor=#FF0000;strokeColor=#000000;" vertex="1" diagramName="Diamond" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-123">
           <mxGeometry x="180" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jroc4bdDvDVN9bcqX-NY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-123" source="jroc4bdDvDVN9bcqX-NY-6" target="jroc4bdDvDVN9bcqX-NY-12">
