@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T09:00:05.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="xk9y1Jk74Rt0nivcYgi8" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T09:46:33.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="JoH900KglZCxFJCmFHL-" version="21.7.2" type="github">
   <diagram name="第 1 页" id="T3U8ABsXLm7v_3UPz6AF">
-    <mxGraphModel dx="2474" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2474" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -514,6 +514,24 @@
             <mxPoint x="180" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-131" source="jroc4bdDvDVN9bcqX-NY-56" target="ErMAgn8fc8IvnbVAQgHE-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-56" value="渣打汇率接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#FF0000;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-131">
+          <mxGeometry x="190" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-131" source="jroc4bdDvDVN9bcqX-NY-57" target="ErMAgn8fc8IvnbVAQgHE-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-57" value="DBS汇率接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-131">
+          <mxGeometry x="190" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-60" value="SCB 确认换汇接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#FF0000;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-131">
+          <mxGeometry x="10" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-61" value="DBS汇率接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-131">
+          <mxGeometry x="10" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-136" value="规则A" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;fontColor=#FF0000;" parent="ErMAgn8fc8IvnbVAQgHE-112" source="ErMAgn8fc8IvnbVAQgHE-134" target="ErMAgn8fc8IvnbVAQgHE-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -564,6 +582,17 @@
         </mxCell>
         <mxCell id="jroc4bdDvDVN9bcqX-NY-55" value="Success" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="jroc4bdDvDVN9bcqX-NY-23" target="jroc4bdDvDVN9bcqX-NY-52">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="jroc4bdDvDVN9bcqX-NY-60" target="jroc4bdDvDVN9bcqX-NY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="jroc4bdDvDVN9bcqX-NY-61" target="jroc4bdDvDVN9bcqX-NY-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="900" />
+              <mxPoint x="510" y="1050" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="jroc4bdDvDVN9bcqX-NY-26" value="客户端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" diagramCategory="uml" diagramName="Lifeline" vertex="1" parent="1">
           <mxGeometry x="-745" y="50" width="100" height="910" as="geometry" />
