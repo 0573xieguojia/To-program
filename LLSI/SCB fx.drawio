@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T02:09:54.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="pqLglRgW43Bu3SQAVnO8" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T03:03:23.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="VRggPwNBbjN71C5NNx3e" version="21.7.2" type="github">
   <diagram name="第 1 页" id="T3U8ABsXLm7v_3UPz6AF">
     <mxGraphModel dx="1647" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -379,7 +379,7 @@
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-122" value="返回提示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ErMAgn8fc8IvnbVAQgHE-117" vertex="1" diagramName="RoundedRectangle" diagramCategory="general">
           <mxGeometry x="20" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ErMAgn8fc8IvnbVAQgHE-154" value="汇率提醒时间结束&lt;br&gt;自动调用" style="rounded=1;whiteSpace=wrap;html=1;" parent="ErMAgn8fc8IvnbVAQgHE-117" vertex="1" diagramName="RoundedRectangle" diagramCategory="general">
+        <mxCell id="ErMAgn8fc8IvnbVAQgHE-154" value="汇率提醒时间&lt;br&gt;结束&lt;br&gt;自动调用" style="rounded=1;whiteSpace=wrap;html=1;" parent="ErMAgn8fc8IvnbVAQgHE-117" vertex="1" diagramName="RoundedRectangle" diagramCategory="general">
           <mxGeometry x="20" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-123" value="服务" style="swimlane;html=1;startSize=20;" parent="ErMAgn8fc8IvnbVAQgHE-112" vertex="1">
@@ -479,8 +479,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="560" />
-              <mxPoint x="-20" y="560" />
-              <mxPoint x="-20" y="190" />
+              <mxPoint x="-40" y="560" />
+              <mxPoint x="-40" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
