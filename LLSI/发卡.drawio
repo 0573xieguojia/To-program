@@ -1,43 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T03:26:51.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="85zt1f4nA2mMeazjBl4J" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T07:22:00.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="5t7fKF0HBj46oTTUortr" version="21.7.4" type="github">
   <diagram name="第 1 页" id="5jCbiO5w2h86ovcSRfh7">
-    <mxGraphModel dx="659" dy="335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="941" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="riuzy1JRgLps-n3GGSRR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="riuzy1JRgLps-n3GGSRR-1" target="riuzy1JRgLps-n3GGSRR-9">
+        <mxCell id="riuzy1JRgLps-n3GGSRR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="riuzy1JRgLps-n3GGSRR-1" target="riuzy1JRgLps-n3GGSRR-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="riuzy1JRgLps-n3GGSRR-1" value="空中云汇账户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="riuzy1JRgLps-n3GGSRR-1" value="空中云汇账户" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="riuzy1JRgLps-n3GGSRR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="riuzy1JRgLps-n3GGSRR-2" target="riuzy1JRgLps-n3GGSRR-1">
+        <mxCell id="riuzy1JRgLps-n3GGSRR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="riuzy1JRgLps-n3GGSRR-2" target="riuzy1JRgLps-n3GGSRR-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="riuzy1JRgLps-n3GGSRR-2" value="HK公司主体" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="riuzy1JRgLps-n3GGSRR-2" value="HK公司主体" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="80" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="riuzy1JRgLps-n3GGSRR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="riuzy1JRgLps-n3GGSRR-3" target="riuzy1JRgLps-n3GGSRR-5">
+        <mxCell id="riuzy1JRgLps-n3GGSRR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="riuzy1JRgLps-n3GGSRR-3" target="riuzy1JRgLps-n3GGSRR-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="riuzy1JRgLps-n3GGSRR-3" value="HK公司主体" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="riuzy1JRgLps-n3GGSRR-3" value="其他公司" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="80" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="riuzy1JRgLps-n3GGSRR-4" value="相同主体注册" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="riuzy1JRgLps-n3GGSRR-4" value="不同主体" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="105" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="riuzy1JRgLps-n3GGSRR-8" value="打款" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.03;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF0000;" edge="1" parent="1" source="riuzy1JRgLps-n3GGSRR-5" target="riuzy1JRgLps-n3GGSRR-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="riuzy1JRgLps-n3GGSRR-8" value="打款" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.03;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF0000;" parent="1" source="riuzy1JRgLps-n3GGSRR-5" target="riuzy1JRgLps-n3GGSRR-1" edge="1">
+          <mxGeometry x="0.0808" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="riuzy1JRgLps-n3GGSRR-5" value="比如：汇丰银行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="riuzy1JRgLps-n3GGSRR-5" value="比如：汇丰银行" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="riuzy1JRgLps-n3GGSRR-9" value="实体卡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="riuzy1JRgLps-n3GGSRR-9" value="实体卡" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="riuzy1JRgLps-n3GGSRR-11" value="消费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="riuzy1JRgLps-n3GGSRR-11" value="消费" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="riuzy1JRgLps-n3GGSRR-12" value="这一步能做到不？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="riuzy1JRgLps-n3GGSRR-12" value="这一步看看一般要多久，你能不能接受" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="185" y="260" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
