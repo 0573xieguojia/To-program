@@ -1,17 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T05:51:54.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="tKWV_fHmFquvykHFjveD" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T06:08:23.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="JtmK8MrMY84swb9UhXxR" version="21.7.4" type="github">
   <diagram name="第 1 页" id="lRQWJhPH5CTcMrLeOUJu">
     <mxGraphModel dx="1136" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SOhe3c1D6d4CI8XdEghG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SOhe3c1D6d4CI8XdEghG-1" target="SOhe3c1D6d4CI8XdEghG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SOhe3c1D6d4CI8XdEghG-1" value="付款方信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SOhe3c1D6d4CI8XdEghG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SOhe3c1D6d4CI8XdEghG-2" target="SOhe3c1D6d4CI8XdEghG-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SOhe3c1D6d4CI8XdEghG-2" value="收款方信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SOhe3c1D6d4CI8XdEghG-3" value="付款信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SOhe3c1D6d4CI8XdEghG-4" value="付款方账号" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SOhe3c1D6d4CI8XdEghG-6" value="收款方账号" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SOhe3c1D6d4CI8XdEghG-8" value="付款金额" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
