@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T09:59:36.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="HIEvRS0gSYlHtSBbNrO6" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T04:39:41.586Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="r13J-5NizQy1MJR3sspP" version="21.7.4" type="github">
   <diagram name="第 1 页" id="T3U8ABsXLm7v_3UPz6AF">
-    <mxGraphModel dx="2474" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1285" dy="233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -382,13 +382,13 @@
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-154" value="汇率提醒时间&lt;br&gt;结束&lt;br&gt;自动调用" style="rounded=1;whiteSpace=wrap;html=1;" parent="ErMAgn8fc8IvnbVAQgHE-117" vertex="1" diagramName="RoundedRectangle" diagramCategory="general">
           <mxGeometry x="20" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-17" value="余额不足提示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-117">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-17" value="余额不足提示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ErMAgn8fc8IvnbVAQgHE-117" vertex="1" diagramName="RoundedRectangle" diagramCategory="general">
           <mxGeometry x="20" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-19" value="指定的汇率不存在或已经过期" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ErMAgn8fc8IvnbVAQgHE-117">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-19" value="指定的汇率不存在或已经过期" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ErMAgn8fc8IvnbVAQgHE-117" vertex="1">
           <mxGeometry x="20" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-20" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="jroc4bdDvDVN9bcqX-NY-8" target="jroc4bdDvDVN9bcqX-NY-19">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-20" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="ErMAgn8fc8IvnbVAQgHE-112" source="jroc4bdDvDVN9bcqX-NY-8" target="jroc4bdDvDVN9bcqX-NY-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="330" y="1050" />
@@ -396,17 +396,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-21" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="jroc4bdDvDVN9bcqX-NY-12" target="jroc4bdDvDVN9bcqX-NY-19">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-21" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="ErMAgn8fc8IvnbVAQgHE-112" source="jroc4bdDvDVN9bcqX-NY-12" target="jroc4bdDvDVN9bcqX-NY-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="520" y="1150" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-24" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="jroc4bdDvDVN9bcqX-NY-8" target="jroc4bdDvDVN9bcqX-NY-23">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-24" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ErMAgn8fc8IvnbVAQgHE-112" source="jroc4bdDvDVN9bcqX-NY-8" target="jroc4bdDvDVN9bcqX-NY-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-25" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="jroc4bdDvDVN9bcqX-NY-12" target="jroc4bdDvDVN9bcqX-NY-23">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-25" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="ErMAgn8fc8IvnbVAQgHE-112" source="jroc4bdDvDVN9bcqX-NY-12" target="jroc4bdDvDVN9bcqX-NY-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-123" value="服务" style="swimlane;html=1;startSize=20;" parent="ErMAgn8fc8IvnbVAQgHE-112" vertex="1">
@@ -439,31 +439,31 @@
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-156" value="调用" style="rounded=1;whiteSpace=wrap;html=1;" parent="ErMAgn8fc8IvnbVAQgHE-123" vertex="1" diagramName="RoundedRectangle" diagramCategory="general">
           <mxGeometry x="20" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-1" value="【&lt;font color=&quot;#0000ff&quot;&gt;按钮&lt;/font&gt;】下一步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-123">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-1" value="【&lt;font color=&quot;#0000ff&quot;&gt;按钮&lt;/font&gt;】下一步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ErMAgn8fc8IvnbVAQgHE-123" vertex="1" diagramName="RoundedRectangle" diagramCategory="general">
           <mxGeometry x="20" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-6" value="【&lt;font color=&quot;#0000ff&quot;&gt;按钮&lt;/font&gt;】确定交易" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-123">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-6" value="【&lt;font color=&quot;#0000ff&quot;&gt;按钮&lt;/font&gt;】确定交易" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ErMAgn8fc8IvnbVAQgHE-123" vertex="1" diagramName="RoundedRectangle" diagramCategory="general">
           <mxGeometry x="20" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-8" value="DBS 校验汇率是否在可用" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;" vertex="1" diagramName="Diamond" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-123">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-8" value="DBS 校验汇率是否在可用" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;" parent="ErMAgn8fc8IvnbVAQgHE-123" vertex="1" diagramName="Diamond" diagramCategory="general">
           <mxGeometry x="20" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-123" source="jroc4bdDvDVN9bcqX-NY-6" target="jroc4bdDvDVN9bcqX-NY-8">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ErMAgn8fc8IvnbVAQgHE-123" source="jroc4bdDvDVN9bcqX-NY-6" target="jroc4bdDvDVN9bcqX-NY-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-12" value="SCB 校验汇率是否在可用" style="rhombus;whiteSpace=wrap;html=1;fontColor=#FF0000;strokeColor=#000000;" vertex="1" diagramName="Diamond" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-123">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-12" value="SCB 校验汇率是否在可用" style="rhombus;whiteSpace=wrap;html=1;fontColor=#FF0000;strokeColor=#000000;" parent="ErMAgn8fc8IvnbVAQgHE-123" vertex="1" diagramName="Diamond" diagramCategory="general">
           <mxGeometry x="180" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-123" source="jroc4bdDvDVN9bcqX-NY-6" target="jroc4bdDvDVN9bcqX-NY-12">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ErMAgn8fc8IvnbVAQgHE-123" source="jroc4bdDvDVN9bcqX-NY-6" target="jroc4bdDvDVN9bcqX-NY-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-10" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-123" source="jroc4bdDvDVN9bcqX-NY-2" target="jroc4bdDvDVN9bcqX-NY-53">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-10" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ErMAgn8fc8IvnbVAQgHE-123" source="jroc4bdDvDVN9bcqX-NY-2" target="jroc4bdDvDVN9bcqX-NY-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-2" value="校验 2 级账号可用余额" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" diagramName="Diamond" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-123">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-2" value="校验 2 级账号可用余额" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="ErMAgn8fc8IvnbVAQgHE-123" vertex="1" diagramName="Diamond" diagramCategory="general">
           <mxGeometry x="20" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-123" source="jroc4bdDvDVN9bcqX-NY-1" target="jroc4bdDvDVN9bcqX-NY-2">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ErMAgn8fc8IvnbVAQgHE-123" source="jroc4bdDvDVN9bcqX-NY-1" target="jroc4bdDvDVN9bcqX-NY-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-151" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="ErMAgn8fc8IvnbVAQgHE-123" edge="1">
@@ -472,13 +472,13 @@
             <mxPoint x="220" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-52" value="记账客户最终所得" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-123">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-52" value="记账客户最终所得" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ErMAgn8fc8IvnbVAQgHE-123" vertex="1" diagramName="RoundedRectangle" diagramCategory="general">
           <mxGeometry x="20" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-123" source="jroc4bdDvDVN9bcqX-NY-53" target="jroc4bdDvDVN9bcqX-NY-6">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ErMAgn8fc8IvnbVAQgHE-123" source="jroc4bdDvDVN9bcqX-NY-53" target="jroc4bdDvDVN9bcqX-NY-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-53" value="计算客户换汇所得&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;换汇服务&lt;/font&gt;费&lt;br&gt;联易融&lt;font color=&quot;#ff0000&quot;&gt;换汇收益&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-123">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-53" value="计算客户换汇所得&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;换汇服务&lt;/font&gt;费&lt;br&gt;联易融&lt;font color=&quot;#ff0000&quot;&gt;换汇收益&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ErMAgn8fc8IvnbVAQgHE-123" vertex="1" diagramName="RoundedRectangle" diagramCategory="general">
           <mxGeometry x="20" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-130" value="内管端" style="swimlane;startSize=20;" parent="ErMAgn8fc8IvnbVAQgHE-112" vertex="1" diagramName="VerticalSwimlane" diagramCategory="BPMN general">
@@ -505,7 +505,7 @@
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-135" value="银行返回&lt;br /&gt;不可交易提示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ErMAgn8fc8IvnbVAQgHE-131" vertex="1" diagramName="RoundedRectangle" diagramCategory="general">
           <mxGeometry x="20" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-23" value="确认交易接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-131">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-23" value="确认交易接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ErMAgn8fc8IvnbVAQgHE-131" vertex="1" diagramName="RoundedRectangle" diagramCategory="general">
           <mxGeometry x="80" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-149" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="ErMAgn8fc8IvnbVAQgHE-131" edge="1">
@@ -514,22 +514,22 @@
             <mxPoint x="180" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-131" source="jroc4bdDvDVN9bcqX-NY-56" target="ErMAgn8fc8IvnbVAQgHE-133">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="ErMAgn8fc8IvnbVAQgHE-131" source="jroc4bdDvDVN9bcqX-NY-56" target="ErMAgn8fc8IvnbVAQgHE-133" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-56" value="渣打汇率接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#FF0000;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-131">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-56" value="渣打汇率接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#FF0000;" parent="ErMAgn8fc8IvnbVAQgHE-131" vertex="1" diagramName="RoundedRectangle" diagramCategory="general">
           <mxGeometry x="190" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-131" source="jroc4bdDvDVN9bcqX-NY-57" target="ErMAgn8fc8IvnbVAQgHE-133">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="ErMAgn8fc8IvnbVAQgHE-131" source="jroc4bdDvDVN9bcqX-NY-57" target="ErMAgn8fc8IvnbVAQgHE-133" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-57" value="DBS汇率接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-131">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-57" value="DBS汇率接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ErMAgn8fc8IvnbVAQgHE-131" vertex="1" diagramName="RoundedRectangle" diagramCategory="general">
           <mxGeometry x="190" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-60" value="SCB 确认换汇接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#FF0000;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-131">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-60" value="SCB 确认换汇接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#FF0000;" parent="ErMAgn8fc8IvnbVAQgHE-131" vertex="1" diagramName="RoundedRectangle" diagramCategory="general">
           <mxGeometry x="10" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-61" value="DBS汇率接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" diagramName="RoundedRectangle" diagramCategory="general" parent="ErMAgn8fc8IvnbVAQgHE-131">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-61" value="DBS汇率接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ErMAgn8fc8IvnbVAQgHE-131" vertex="1" diagramName="RoundedRectangle" diagramCategory="general">
           <mxGeometry x="10" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ErMAgn8fc8IvnbVAQgHE-136" value="规则A" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;fontColor=#FF0000;" parent="ErMAgn8fc8IvnbVAQgHE-112" source="ErMAgn8fc8IvnbVAQgHE-134" target="ErMAgn8fc8IvnbVAQgHE-125" edge="1">
@@ -574,19 +574,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-4" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="ErMAgn8fc8IvnbVAQgHE-135" target="jroc4bdDvDVN9bcqX-NY-1">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-4" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="ErMAgn8fc8IvnbVAQgHE-112" source="ErMAgn8fc8IvnbVAQgHE-135" target="jroc4bdDvDVN9bcqX-NY-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="jroc4bdDvDVN9bcqX-NY-2" target="jroc4bdDvDVN9bcqX-NY-17">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="ErMAgn8fc8IvnbVAQgHE-112" source="jroc4bdDvDVN9bcqX-NY-2" target="jroc4bdDvDVN9bcqX-NY-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-55" value="Success" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="jroc4bdDvDVN9bcqX-NY-23" target="jroc4bdDvDVN9bcqX-NY-52">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-55" value="Success" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="ErMAgn8fc8IvnbVAQgHE-112" source="jroc4bdDvDVN9bcqX-NY-23" target="jroc4bdDvDVN9bcqX-NY-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="jroc4bdDvDVN9bcqX-NY-60" target="jroc4bdDvDVN9bcqX-NY-12">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="ErMAgn8fc8IvnbVAQgHE-112" source="jroc4bdDvDVN9bcqX-NY-60" target="jroc4bdDvDVN9bcqX-NY-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ErMAgn8fc8IvnbVAQgHE-112" source="jroc4bdDvDVN9bcqX-NY-61" target="jroc4bdDvDVN9bcqX-NY-8">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="ErMAgn8fc8IvnbVAQgHE-112" source="jroc4bdDvDVN9bcqX-NY-61" target="jroc4bdDvDVN9bcqX-NY-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="510" y="900" />
@@ -594,19 +594,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-26" value="客户端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" diagramCategory="uml" diagramName="Lifeline" vertex="1" parent="1">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-26" value="客户端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" diagramCategory="uml" diagramName="Lifeline" vertex="1">
           <mxGeometry x="-745" y="50" width="100" height="910" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-27" value="LLS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" diagramCategory="uml" diagramName="Lifeline" vertex="1" parent="1">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-27" value="LLS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" diagramCategory="uml" diagramName="Lifeline" vertex="1">
           <mxGeometry x="-505" y="50" width="100" height="910" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="SynchronousInvocation" vertex="1" parent="jroc4bdDvDVN9bcqX-NY-27">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="jroc4bdDvDVN9bcqX-NY-27" diagramCategory="uml" diagramName="SynchronousInvocation" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="SelfCall" vertex="1" parent="jroc4bdDvDVN9bcqX-NY-27">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="jroc4bdDvDVN9bcqX-NY-27" diagramCategory="uml" diagramName="SelfCall" vertex="1">
           <mxGeometry x="45" y="340" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-30" value="校验余额、汇率有效期" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="jroc4bdDvDVN9bcqX-NY-27" target="jroc4bdDvDVN9bcqX-NY-29">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-30" value="校验余额、汇率有效期" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="jroc4bdDvDVN9bcqX-NY-27" target="jroc4bdDvDVN9bcqX-NY-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="320" as="sourcePoint" />
             <Array as="points">
@@ -614,10 +614,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="SelfCall" vertex="1" parent="jroc4bdDvDVN9bcqX-NY-27">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="jroc4bdDvDVN9bcqX-NY-27" diagramCategory="uml" diagramName="SelfCall" vertex="1">
           <mxGeometry x="45" y="430" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-32" value="冻结余额" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="jroc4bdDvDVN9bcqX-NY-27" target="jroc4bdDvDVN9bcqX-NY-31">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-32" value="冻结余额" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="jroc4bdDvDVN9bcqX-NY-27" target="jroc4bdDvDVN9bcqX-NY-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="410" as="sourcePoint" />
             <Array as="points">
@@ -625,10 +625,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="SelfCall" vertex="1" parent="jroc4bdDvDVN9bcqX-NY-27">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="jroc4bdDvDVN9bcqX-NY-27" diagramCategory="uml" diagramName="SelfCall" vertex="1">
           <mxGeometry x="45" y="610" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-34" value="执行记账" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="jroc4bdDvDVN9bcqX-NY-27" target="jroc4bdDvDVN9bcqX-NY-33">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-34" value="执行记账" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="jroc4bdDvDVN9bcqX-NY-27" target="jroc4bdDvDVN9bcqX-NY-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="590" as="sourcePoint" />
             <Array as="points">
@@ -636,10 +636,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="SelfCall" vertex="1" parent="jroc4bdDvDVN9bcqX-NY-27">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="jroc4bdDvDVN9bcqX-NY-27" diagramCategory="uml" diagramName="SelfCall" vertex="1">
           <mxGeometry x="45" y="780" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-36" value="回滚冻结余额" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="jroc4bdDvDVN9bcqX-NY-27" target="jroc4bdDvDVN9bcqX-NY-35">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-36" value="回滚冻结余额" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="jroc4bdDvDVN9bcqX-NY-27" target="jroc4bdDvDVN9bcqX-NY-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="760" as="sourcePoint" />
             <Array as="points">
@@ -647,72 +647,81 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-37" value="SCB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" diagramCategory="uml" diagramName="Lifeline" vertex="1" parent="1">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-37" value="SCB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" diagramCategory="uml" diagramName="Lifeline" vertex="1">
           <mxGeometry x="-255" y="50" width="100" height="910" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="SynchronousInvocation" vertex="1" parent="jroc4bdDvDVN9bcqX-NY-37">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="jroc4bdDvDVN9bcqX-NY-37" diagramCategory="uml" diagramName="SynchronousInvocation" vertex="1">
           <mxGeometry x="45" y="135" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-39" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" diagramCategory="uml" diagramName="SynchronousInvocation" vertex="1" parent="jroc4bdDvDVN9bcqX-NY-37">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-39" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="jroc4bdDvDVN9bcqX-NY-37" diagramCategory="uml" diagramName="SynchronousInvocation" vertex="1">
           <mxGeometry x="45.94" y="450.88" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-40" value="输入条件查询汇率" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="1" source="jroc4bdDvDVN9bcqX-NY-26" target="jroc4bdDvDVN9bcqX-NY-28">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-40" value="输入条件查询汇率" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="1" source="jroc4bdDvDVN9bcqX-NY-26" target="jroc4bdDvDVN9bcqX-NY-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-530" y="130" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-41" value="get-single-quote" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="1" target="jroc4bdDvDVN9bcqX-NY-38">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-41" value="get-single-quote" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="1" target="jroc4bdDvDVN9bcqX-NY-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-445" y="185" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-42" value="返回汇率、rateQuoteID" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="1" source="jroc4bdDvDVN9bcqX-NY-38" target="jroc4bdDvDVN9bcqX-NY-26">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-42" value="返回汇率、rateQuoteID" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="1" source="jroc4bdDvDVN9bcqX-NY-38" target="jroc4bdDvDVN9bcqX-NY-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-280" y="261" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-43" value="确定交易" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="jroc4bdDvDVN9bcqX-NY-26">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-43" value="确定交易" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="jroc4bdDvDVN9bcqX-NY-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-530" y="330" as="sourcePoint" />
             <mxPoint x="-460" y="330.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-44" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;post-transactions&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;exitX=0.906;exitY=0.728;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="jroc4bdDvDVN9bcqX-NY-39">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-44" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;post-transactions&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;exitX=0.906;exitY=0.728;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="jroc4bdDvDVN9bcqX-NY-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-450" y="500" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-45" value="返回SUCCESS" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="1" source="jroc4bdDvDVN9bcqX-NY-39">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-45" value="返回SUCCESS" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="1" source="jroc4bdDvDVN9bcqX-NY-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-455" y="577" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-46" value="查询汇率" style="shape=umlFrame;whiteSpace=wrap;html=1;" diagramCategory="uml" diagramName="Frame" vertex="1" parent="1">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-46" value="查询汇率" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" diagramCategory="uml" diagramName="Frame" vertex="1">
           <mxGeometry x="-750" y="100" width="605" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-47" value="换汇成功" style="shape=umlFrame;whiteSpace=wrap;html=1;" diagramCategory="uml" diagramName="Frame" vertex="1" parent="1">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-47" value="换汇成功" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" diagramCategory="uml" diagramName="Frame" vertex="1">
           <mxGeometry x="-750" y="310" width="605" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-48" value="返回换汇成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" diagramCategory="uml" diagramName="Return" edge="1" parent="1" target="jroc4bdDvDVN9bcqX-NY-26">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-48" value="返回换汇成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" target="jroc4bdDvDVN9bcqX-NY-26" diagramCategory="uml" diagramName="Return" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-455" y="690" as="sourcePoint" />
             <mxPoint x="-535" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-49" value="返回失败" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" diagramCategory="uml" diagramName="Return" edge="1" parent="1" target="jroc4bdDvDVN9bcqX-NY-27">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-49" value="返回失败" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" target="jroc4bdDvDVN9bcqX-NY-27" diagramCategory="uml" diagramName="Return" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-205" y="760" as="sourcePoint" />
             <mxPoint x="-285" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-50" value="返回换汇失败" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" diagramCategory="uml" diagramName="Return" edge="1" parent="1" target="jroc4bdDvDVN9bcqX-NY-26">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-50" value="返回换汇失败" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" target="jroc4bdDvDVN9bcqX-NY-26" diagramCategory="uml" diagramName="Return" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-455" y="900" as="sourcePoint" />
             <mxPoint x="-535" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jroc4bdDvDVN9bcqX-NY-51" value="换汇失败" style="shape=umlFrame;whiteSpace=wrap;html=1;" diagramCategory="uml" diagramName="Frame" vertex="1" parent="1">
+        <mxCell id="jroc4bdDvDVN9bcqX-NY-51" value="换汇失败" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" diagramCategory="uml" diagramName="Frame" vertex="1">
           <mxGeometry x="-750" y="730" width="605" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="OdWCnaTDxD0EeZL7fDP--1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="1724" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OdWCnaTDxD0EeZL7fDP--2" value="进入第一个计时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OdWCnaTDxD0EeZL7fDP--3" value="进入第二个计时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
